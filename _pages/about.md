@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am currently a PhD Candidate in Communication Studies at The University of Texas at Austin. My research explores the communicative effects of subtle language features (e.g., markers of agency, metadiscourse, politeness) on people's perceptions and behaviors. I teach classes on intercultural communication, interpersonal communication, linguistic pragmatics, and professional communication. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
+Welcome to my website! My name is Mian Jia. I am currently a PhD Candidate in Communication Studies at The University of Texas at Austin. My research explores the key role of language in various communicative processes, such as interpersonal communication, intercultural communication, health communication, and technology-mediated communication. To better understand these processes, I use a variety of research methods such as experimental design, corpus analysis, content analysis, computerized text analysis, and multimodal conversation analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
 
-Language and Social Influence
+Language and Social Action
 ======
 
-This line of research seeks to understand the persuasive effects of language features in various interpersonal and health communication contexts. I draw on theories from linguistics and communication studies. My representative publications are listed as follows:
+This line of research examines the communicative effects of language features such as markers of agency, metadiscourse, politeness. Drawing on theories of linguistics and communication studies, I seek to understand how people use language to achieve various instrumental, relational, and identity goals in interpersonal and health communication contexts. Some of the contexts I have explored include advice-giving, health messaging strategies, and acknowledgments writing. My main publications are listed as follows:
 
-Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. Health Communication. Online First Publication. https://doi.org/10.1080/10410236.2022.2147125
+Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. Applied Linguistics, 43(6), 1217–1221. https://doi.org/10.1093/applin/amac063 [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
 
-Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. Applied Linguistics, 43(6), 1217–1221. https://doi.org/10.1093/applin/amac063
+Jia, M. & An, Y. (2022). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. English Today. Online First Publication. https://doi.org/10.1017/S026607842200027X [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
 
-Linguistic (Im)politeness
+Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. Health Communication. Online First Publication. https://doi.org/10.1080/10410236.2022.2147125 [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
+
+Culture and linguistic (Im)politeness
 ======
 
-This line of research seeks to understand the communicative effects of linguistic (im)politeness expressions across different contexts. I use both qualitative and quantitative methods such as discourse analysis, content analysis, corpus analysis, and experimental design. My representative publications are listed as follows:
+This line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable in across linguacultures. My main publications are listed as follows:
 
-Jia, M. & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. Text & Talk, 42(5), 691–711. https://doi.org/10.1515/text-2020-0097
+Jia, M. & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. Text & Talk, 42(5), 691–711. https://doi.org/10.1515/text-2020-0097 [PDF](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)
 
-Jia, M. & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. _Lingua_, _251_, 103028 [Editors' Choice Article]. https://doi.org/10.1016/j.lingua.2020.103028 
+Jia, M. & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. _Lingua_, _251_, 103028 [Editors' Choice Article]. https://doi.org/10.1016/j.lingua.2020.103028 [PDF](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf)
 
 
