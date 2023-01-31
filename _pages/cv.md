@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Communication Studies, The University of Texas at Austin, 2023 (expected)
+* M.A. in Linguistics, Beihang University, 2018
+* B.A. in English, Beihang University, 2015
 
-Work experience
+Professional Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021–2023 Graduate Research Assistant 
+  * Department of Communication Studies, The University of Texas at Austin
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2018–2022 Assistant Instructor/Teaching Assistant 
+  * Technology & Information Policy Institute, The University of Texas at Austin
   
-Talks
+Academic Honors & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Top Paper Award, Communication and Social Cognition Division, NCA, 2022.
+* Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022.
+* University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023.
+* Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021.  
+* Top-Two Student Paper Award, Language and Social Interaction Division, ICA, 2021.
+* Top-Four Paper Award, Intergroup Communication Division, ICA, 2020. 
+* Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022.
+* Provost Supplement Fellowship, UT Austin, 2018–2019.
+* Graduate School Recruitment Fellowship, UT Austin, 2018–2019.
   
-Teaching
+Professional Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Politeness Research, Journal of Pragmatics, Language Sciences_
+  * International Communication Association Conference, National Communication Association Conference
