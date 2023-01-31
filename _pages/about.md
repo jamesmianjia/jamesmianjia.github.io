@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Mian Jia. I am currently a PhD Candidate in Communication Studies at The University of Texas at Austin. My research explores the key role of language in various communicative processes, such as interpersonal communication, intercultural communication, health communication, and technology-mediated communication. To better understand these processes, I use a variety of research methods such as experimental design, corpus analysis, content analysis, computerized text analysis, and multimodal conversation analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
+Welcome to my website! My research explores the key role of language in various interpersonal, intercultural, health, and technology-mediated communication contexts. To better understand these language processes, I use a variety of research methods such as experimental design, corpus analysis, content analysis, computerized text analysis, and multimodal conversation analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
 
 Language and Social Action
 ======
