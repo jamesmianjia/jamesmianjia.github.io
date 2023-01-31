@@ -8,11 +8,11 @@ author_profile: true
 Undergraduate Courses
 -----
 
-Language, Communication & Culture
-Professional Communication Skills
-Communication and Personal Relationships
-Nonverbal Communication
-Conflict Resolution
-Difficult Conversations
-Seminar on Rhetoric 
-Culture and Communication Skills
+1. Language, Communication & Culture
+2. Professional Communication Skills
+3. Communication and Personal Relationships
+4. Nonverbal Communication
+5. Conflict Resolution
+6. Difficult Conversations
+7. Seminar on Rhetoric 
+8. Culture and Communication Skills
