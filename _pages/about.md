@@ -13,7 +13,7 @@ Welcome to my website! My research explores the key role of language in various 
 Language and Social Action
 ======
 
-This line of research examines the communicative effects of language features such as markers of agency, metadiscourse, politeness. Drawing on theories of linguistics and communication studies, I seek to understand how people use language to achieve various instrumental, relational, and identity goals in interpersonal and health communication contexts. Some of the contexts I have explored include advice-giving, health messaging strategies, and acknowledgments writing. My main publications are listed as follows:
+This line of research examines the communicative effects of language features such as markers of agency, metadiscourse, and (im)politeness. Drawing on theories from linguistics and communication studies, I seek to understand how people use language to achieve various instrumental, relational, and identity goals in interpersonal and health communication contexts. Some of the contexts I have explored include advice-giving, health messaging strategies, and acknowledgments writing. My main publications are listed as follows:
 
 Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. _Applied Linguistics_, _43_(6), 1217–1221. https://doi.org/10.1093/applin/amac063 [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
 
