@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
+
+Research Grants
+-----
 
 1. National Social Science Foundation of China: General Project, 2021
   * 面向人工智能的言语行为博弈机制研究 (An Artificial Intelligence Oriented Game Theoretical Study of Speech Acts)
@@ -17,3 +20,18 @@ author_profile: true
 4. Merck Investigator Studies Program, 2020. 
   * An Environmental Scan and Randomized Factorial Experiment to Investigate the Efficacy of Multiple Messaging Strategies for Improving HPV Vaccine Confidence Among English- and Spanish-Speaking Parents
   * Role: Graduate Research Assistant
+5. Fundamental Research Funds for the Central Universities: Special Fund for Academic Publishing, 2019
+  * Pragmatics for Beginners
+  * Role: Co-Investigator
+
+Small Grants
+-----
+
+1. UT Communication Graduate Community Supplemental Research Grant, 2022
+  * Effects of Processing Fluency on Evaluations of Euphemisms 
+  * Role: Principal Investigator
+2. UT Communication Graduate Community Student Research Grant, 2020 
+  * Co-Operative Actions in Chinese Freestyle Rap Battles 
+  * Role: Principal Investigator
+
+
