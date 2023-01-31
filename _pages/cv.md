@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Communication Studies, The University of Texas at Austin, 2023 (expected)
-* M.A. in Linguistics, Beihang University, 2018
-* B.A. in English, Beihang University, 2015
+* Ph.D. Communication Studies, The University of Texas at Austin, 2023 (expected)
+* M.A.  Linguistics, Beihang University, 2018
+* B.A.  English, Beihang University, 2015
+
 
 Professional Appointments
 ======
@@ -22,6 +23,7 @@ Professional Appointments
   
 * 2018–2022 Assistant Instructor/Teaching Assistant 
   * Technology & Information Policy Institute, The University of Texas at Austin
+  
   
 Academic Honors & Awards
 ======
@@ -34,7 +36,8 @@ Academic Honors & Awards
 * Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022.
 * Provost Supplement Fellowship, UT Austin, 2018–2019.
 * Graduate School Recruitment Fellowship, UT Austin, 2018–2019.
-  
+
+
 Professional Service
 ======
 * Reviewer
