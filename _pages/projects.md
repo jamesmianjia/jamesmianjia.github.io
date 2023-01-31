@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Research Grants
+External Grants
 -----
 
 1. National Social Science Foundation of China: General Project, 2021
@@ -17,14 +17,11 @@ Research Grants
 3. Merck Investigator Studies Program, 2022
   * Targeting Communication to Improve Vaccine Confidence: Comparing Theoretically Designed Messages Across Different Vaccines, Ages, and Self/Other Focus
   * Role: Graduate Research Assistant
-4. Merck Investigator Studies Program, 2020. 
+4. Merck Investigator Studies Program, 2020
   * An Environmental Scan and Randomized Factorial Experiment to Investigate the Efficacy of Multiple Messaging Strategies for Improving HPV Vaccine Confidence Among English- and Spanish-Speaking Parents
   * Role: Graduate Research Assistant
-5. Fundamental Research Funds for the Central Universities: Special Fund for Academic Publishing, 2019
-  * Pragmatics for Beginners
-  * Role: Co-Investigator
 
-Small Grants
+Internal Grants
 -----
 
 1. UT Communication Graduate Community Supplemental Research Grant, 2022
