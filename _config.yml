@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Mian Jia"
+name                     : &name "Mian Jia  贾 勉"
 description              : &description "personal description"
 url                      : https://jamesmianjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,11 +83,11 @@ author:
   name             : "Mian Jia"
   avatar           : "Profile.png"
   bio              : ""
-  location         : 
-  employer         : "The University of Texas at Austin"
+  location         :
   googlescholar    : "https://scholar.google.com/citations?user=JtYmfJ0Z-uoC&hl=en"
   email            : "mianjia@utexas.edu"
   researchgate     : "https://www.researchgate.net/profile/Mian-Jia-4" # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "The University of Texas at Austin"
   uri              :
   bitbucket        :
   codepen          :
