@@ -16,7 +16,7 @@ author_profile: true
 7. Jia, M. & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. *Lingua*, *251*, 103028. https://doi.org/10.1016/j.lingua.2020.103028 (SSCI)
 8. 贾勉、向明友（2022）：21世纪国外（不）礼貌研究热点与前沿探究，《中国外语》，第3期，53–63页。https://doi.org/10.13564/j.cnki.issn.1672-9382.2022.03.004 (CSSCI)
 9. 曹笃鑫、向明友、贾勉（2021）：语境论与语义最简论之争：知识图谱的动态计量，《外语教学理论与实践》，第4期，8–23页。http://www.teachlanguage.ecnu.edu.cn/CN/Y2021/V176/I4/8 (CSSCI)
-10. 向明友、贾勉（2020）：Leech的语用语言礼貌观，《外语教学》，第4期，1–6页。 https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001 (CSSCI) [PDF](jamesmianjia.github.io/folder/向明友 贾勉 2020 Leech的语用语言礼貌观.pdf)
+10. 向明友、贾勉（2020）：Leech的语用语言礼貌观，《外语教学》，第4期，1–6页。 https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001 (CSSCI) [PDF](https://github.com/jamesmianjia.github.io/folder/向明友 贾勉 2020 Leech的语用语言礼貌观.pdf)
 
 **Books**
 
@@ -26,7 +26,7 @@ author_profile: true
 
 1. Jia, M. (2022). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*. Online First Publication. https://doi.org/10.1515/pr-2021-0027 (SSCI)
 2. Jia, M. (2022). Why language? What pragmatics tells us about language and communication. *Journal of Pragmatics*, *188*, 80–82. https://doi.org/10.1016/j.pragma.2021.12.005 (SSCI)
-3. Jia, M. & An, Y. (2021). Complimenting behavior and (self-)praise across social media. *International Journal of Communication*, *15*, 2112–2115. https://ijoc.org/index.php/ijoc/article/view/17620/3433 (SSCI)
+3. Jia, M. & An, Y. (2021). Complimenting behavior and (self-)praise across social media. *International Journal of Communication*, *15*, 2112–2115. https://ijoc.org/index.php/ijoc/article/view/17620/3433 (SSCI) [PDF](https://github.com/jamesmianjia/jamesmianjia.github.io/blob/cbd44a904d82c108f25a531ddb02d0c06a6e8a4d/folder/Jia%20&%20An%202021%20Review%20of%20Complimenting%20Behavior%20and%20(Self-)Praise%20Across%20Social%20Media%20(2020).pdf)
 
 
 {% if author.googlescholar %}
