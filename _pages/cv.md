@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Communication Studies, The University of Texas at Austin, 2023 (expected)
-* M.A.  Linguistics, Beihang University, 2018
-* B.A.  English, Beihang University, 2015
+* Ph.D. in Communication Studies, The University of Texas at Austin, 2023 (expected)
+* M.A. in Linguistics, Beihang University, 2018
+* B.A. in English, Beihang University, 2015
 
 
 Professional Appointments
