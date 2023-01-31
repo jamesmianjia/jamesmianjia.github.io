@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Research Articles
+**Research Articles**
 
 1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*. (SSCI).
 2. Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. https://doi.org/10.1080/10410236.2022.2147125 (SSCI)
@@ -18,11 +18,11 @@ author_profile: true
 9. 曹笃鑫、向明友、贾勉（2021）：语境论与语义最简论之争：知识图谱的动态计量，《外语教学理论与实践》，第4期，8–23页。http://www.teachlanguage.ecnu.edu.cn/CN/Y2021/V176/I4/8 (CSSCI)
 10. 向明友、贾勉（2020）：Leech的语用语言礼貌观，《外语教学》，第4期，1–6页。 https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001 (CSSCI)
 
-**Books
+**Books**
 
 1. Xiang, M., Jia, M., & Bu, X. (2022). *Pragmatics for beginners*. Beijing: Peking University Press.
 
-**Book Reviews
+**Book Reviews**
 
 1. Jia, M. (2022). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*. Online First Publication. https://doi.org/10.1515/pr-2021-0027 (SSCI)
 2. Jia, M. (2022). Why language? What pragmatics tells us about language and communication. *Journal of Pragmatics*, *188*, 80–82. https://doi.org/10.1016/j.pragma.2021.12.005 (SSCI)
