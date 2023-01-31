@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Mian Jia"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Austin,TX,USA"
+  avatar           : "Profile.png"
+  bio              : ""
+  location         : 
   employer         : "The University of Texas at Austin"
   googlescholar    : "https://scholar.google.com/citations?user=JtYmfJ0Z-uoC&hl=en"
   email            : "mianjia@utexas.edu"
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1016-2647"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
