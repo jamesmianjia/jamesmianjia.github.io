@@ -75,7 +75,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    measurement_id       :G-XW6H5JFKDT
+    measurement_id       : G-XW6H5JFKDT
     anonymize_ip         : # true, false (default)
 
 
