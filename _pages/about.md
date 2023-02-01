@@ -19,7 +19,7 @@ This line of research examines the communicative effects of language features su
 Culture and Linguistic (Im)politeness
 -----
 
-This line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable in across linguacultures. My representative works are published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
+This line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable across linguacultures. My representative works are published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
 
 
 
