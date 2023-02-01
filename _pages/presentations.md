@@ -8,7 +8,7 @@ author_profile: true
 Invited Talks
 -----
 
-* Shanghai International Studies University (2022)
+* Shanghai International Studies University (2022) [Link](https://mp.weixin.qq.com/s/1S13e9k2p4XV1g3R0koDUQ)
 
 
 Peer-Reviewed Conference Presentations
