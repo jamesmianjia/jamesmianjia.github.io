@@ -26,11 +26,11 @@ Professional Appointments
 Academic Honors & Awards
 ======
 * Conference Paper Awards: AMPRA (2022), ICA (2021, 2020), NCA (2022)
-* University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023.
-* Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021.  
-* Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022.
-* Provost Supplement Fellowship, UT Austin, 2018–2019.
-* Graduate School Recruitment Fellowship, UT Austin, 2018–2019.
+* University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023
+* Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021
+* Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022
+* Provost Supplement Fellowship, UT Austin, 2018–2019
+* Graduate School Recruitment Fellowship, UT Austin, 2018–2019
 
 Professional Service
 ======
