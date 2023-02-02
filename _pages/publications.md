@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+Citations
+-----
+
+| Google Scholar |       All      |    Since 2018  |      CNKI      |       All      |    Since 2018  |   
+| --------       | --------       | --------       | --------       | --------       | --------       |        
+|   Citations    |       11       |        11      |   Citations    |       12       |       12       |
+|    h-index     |        2       |         2      |    h-index     |        1       |        1       |
+|   i10-index    |        0       |         0      |   i10-index    |        1       |        1       |
+
 Research Articles
 -----
 
