@@ -5,6 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+table th:first-of-type {
+    width: 17%;
+}
+table th:nth-of-type(2) {
+    width: 16%;
+}
+table th:nth-of-type(3) {
+    width: 17%;
+}
+table th:nth-of-type(4) {
+    width: 17%;
+}
+table th:nth-of-type(5) {
+    width: 16%;
+}
+table th:nth-of-type(6) {
+    width: 17%;
+}
+</style>
+
 Citations
 -----
 
