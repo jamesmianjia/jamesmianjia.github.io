@@ -28,7 +28,6 @@ table th:nth-of-type(6) {
 
 Google and CNKI Citations
 -----
-<br>
 
 |Google Scholar|All|Since 2018|CNKI|All|Since 2018|   
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|        
