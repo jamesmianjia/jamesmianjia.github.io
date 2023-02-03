@@ -5,12 +5,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Invited Talks
------
-
-* Shanghai International Studies University (2022) [Link](https://mp.weixin.qq.com/s/1S13e9k2p4XV1g3R0koDUQ)
-
-
 Peer-Reviewed Conference Presentations
 -----
 
@@ -21,5 +15,11 @@ Peer-Reviewed Conference Presentations
 * International Conference on Language and Social Psychology (2022)
 * International Conference on Intercultural Pragmatics and Communication (2022)
 * International Conference on Internet Pragmatics (2020)
+* International Humor Conference (2019)
 * International Pragmatics Association Conference (2019, 2021, 2023)
-* International Symposium on (Im)Politeness (2019, 2021)
+* International Conference on (Im)Politeness (2019, 2021)
+
+Invited Talks
+-----
+
+* Shanghai International Studies University (2022) [Link](https://mp.weixin.qq.com/s/1S13e9k2p4XV1g3R0koDUQ)
