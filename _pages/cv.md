@@ -18,10 +18,10 @@ Education
 Professional Appointments
 ======
 * 2021–2023 Graduate Research Assistant 
-  * Department of Communication Studies, The University of Texas at Austin
+  * Technology & Information Policy Institute, The University of Texas at Austin
   
 * 2018–2022 Assistant Instructor/Teaching Assistant 
-  * Technology & Information Policy Institute, The University of Texas at Austin
+  * Department of Communication Studies, The University of Texas at Austin
   
 Academic Honors & Awards
 ======
@@ -35,7 +35,7 @@ Academic Honors & Awards
 Professional Service
 ======
 * Reviewer
-  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Politeness Research, Journal of Pragmatics, Language Sciences_
+  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
   * International Communication Association Conference, National Communication Association Conference
 * Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2020.
 
