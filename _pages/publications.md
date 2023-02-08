@@ -29,16 +29,16 @@ table th:nth-of-type(6) {
 Google and CNKI Citations
 -----
 
-|Google Scholar|All|Since 2018|CNKI|All|Since 2018|   
+| Google Scholar|     All       |   Since 2018  |     CNKI      |      All      |   Since 2018  |   
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|        
-|Citations|11|11|Citations|12|12|
-|h-index|2|2|h-index |1|1|
-|i10-index|0|0|i10-index|1|1|
+|    Citations  |      11       |       11      |    Citations  |       12      |       12      |
+|     h-index   |       2       |        2      |     h-index   |        1      |        1      |
+|    i10-index  |       0       |        0      |    i10-index  |        1      |        1      |
 
 Research Articles
 -----
 
-1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*. [PDF]
+1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*.
 2. Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. https://doi.org/10.1080/10410236.2022.2147125 [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
 3. Jia, M. & An, Y. (2022). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. https://doi.org/10.1017/S026607842200027X [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
 4. Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. https://doi.org/10.1093/applin/amac063 [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
@@ -57,7 +57,7 @@ Books
 Book Reviews
 -----
 
-1. Jia, M. (2022). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*. Online First Publication. https://doi.org/10.1515/pr-2021-0027 [PDF]
+1. Jia, M. (2022). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*. Online First Publication. https://doi.org/10.1515/pr-2021-0027
 2. Jia, M. (2022). Why language? What pragmatics tells us about language and communication. *Journal of Pragmatics*, *188*, 80–82. https://doi.org/10.1016/j.pragma.2021.12.005 [PDF](https://jamesmianjia.github.io/files/Jia_2022_JoP.pdf)
 3. Jia, M. & An, Y. (2021). Complimenting behavior and (self-)praise across social media. *International Journal of Communication*, *15*, 2112–2115. https://ijoc.org/index.php/ijoc/article/view/17620/3433 [PDF](https://jamesmianjia.github.io/files/Jia_An_2021_IJoC.pdf)
 
