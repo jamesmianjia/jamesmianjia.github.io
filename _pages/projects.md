@@ -24,10 +24,13 @@ External Grants
 Internal Grants
 -----
 
-1. UT Communication Graduate Community Supplemental Research Grant, 2022
+1. UT Doctoral Dissertation Continuing Fellowship, 2022
+  * An Integrated Approach to Metadiscourse in Text-based Masspersonal Advice
+  * Role: Principal Investigator
+2. UT Communication Graduate Community Supplemental Research Grant, 2021
   * Effects of Processing Fluency on Evaluations of Euphemisms 
   * Role: Principal Investigator
-2. UT Communication Graduate Community Student Research Grant, 2020 
+3. UT Communication Graduate Community Student Research Grant, 2020 
   * Co-Operative Actions in Chinese Freestyle Rap Battles 
   * Role: Principal Investigator
 
