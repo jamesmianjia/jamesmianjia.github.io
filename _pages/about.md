@@ -14,15 +14,15 @@ Welcome to my website! My research explores the key role of language in various 
 Language and Social Influence
 -----
 
-My primary line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these language features shape people's attitudes and decision-making in advice communication and health message design. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
+This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these language features shape people's attitudes and decision-making in advice communication and health message design. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
 
 Culture and Linguistic (Im)politeness
 -----
 
-My second line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable across linguacultures. My works have been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
+This line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable across linguacultures. My works have been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
 
 
-Computational Approaches to Texts and Discourse
+Computational Approaches to Text and Discourse
 -----
 
 This line of research employs various computational methods to understand language and communication in and outside of academia. Using Linguistic Inquiry and Word Count, a recent study examines how dissertation writers communicate gratitude in their dissertation acknowledgements across different disciplines. 
