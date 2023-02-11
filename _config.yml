@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Mian Jia"
 title_separator          : "-"
 name                     : &name "Mian Jia"
 description              : &description "personal description"
