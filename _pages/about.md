@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My research explores the key role of language in various interpersonal, intercultural, health, and mediated contexts. To better understand these communicative processes, I use a variety of research methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
+Welcome to my website! My research explores the key role of language in various interpersonal, intercultural, health, and mediated contexts. I have used a variety of research methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
 
 
 Language and Social Influence
 -----
 
-This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these language features shape people's attitudes and decision-making in advice communication and health message design. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
+This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these strategic word choices help to promote prosocial behaviors in interpersonal and health contexts. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
 
-Culture and Linguistic (Im)politeness
+Chinese Socio-pragmatics
 -----
 
-This line of research explores the linguistic realizations of (im)politeness across various Chinese communicative contexts, especially those that are underrepresented or misrepresented. I aim to understand the stability and variability of culture in linguistic communication and in turn develop theories that are applicable across linguacultures. My works have been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
+This line of research examines the Chinese pragmatic behaviors from various perspectives such as (im)politeness, metapragmatics, gestures, and discourse markers. I aim to critically understand the how Chinese pragmatics research can contribute to the international community. My works have been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
 
 
 Computational Approaches to Text and Discourse
