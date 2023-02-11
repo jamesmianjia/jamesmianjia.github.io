@@ -57,7 +57,7 @@ Books
 Book Reviews
 -----
 
-1. Jia, M. (2022). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*. Online First Publication. https://doi.org/10.1515/pr-2021-0027 [PDF](https://jamesmianjia.github.io/files/Jia_2023_JPR.pdf).
+1. Jia, M. (2023). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*, *19*(1), 291–295. https://doi.org/10.1515/pr-2021-0027 [PDF](https://jamesmianjia.github.io/files/Jia_2023_JPR.pdf).
 2. Jia, M. (2022). Why language? What pragmatics tells us about language and communication. *Journal of Pragmatics*, *188*, 80–82. https://doi.org/10.1016/j.pragma.2021.12.005 [PDF](https://jamesmianjia.github.io/files/Jia_2022_JoP.pdf)
 3. Jia, M. & An, Y. (2021). Complimenting behavior and (self-)praise across social media. *International Journal of Communication*, *15*, 2112–2115. https://ijoc.org/index.php/ijoc/article/view/17620/3433 [PDF](https://jamesmianjia.github.io/files/Jia_An_2021_IJoC.pdf)
 
