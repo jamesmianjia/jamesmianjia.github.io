@@ -19,7 +19,7 @@ This line of research examines the persuasive effects of language features such 
 Chinese Socio-pragmatics
 -----
 
-This line of research examines the Chinese pragmatic behaviors from various perspectives such as (im)politeness, metapragmatics, gestures, and discourse markers. I aim to critically understand the how Chinese pragmatics research can contribute to the international community. My works have been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
+This line of research examines the Chinese pragmatic behaviors from various perspectives such as (im)politeness, metapragmatics, gestures, and discourse markers. I aim to critically understand the how Chinese pragmatics research can contribute to the international community. My work has been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
 
 
 Computational Approaches to Text and Discourse
