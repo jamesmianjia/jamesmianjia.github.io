@@ -18,8 +18,10 @@ Peer-Reviewed Conference Presentations
 * International Pragmatics Association Conference (2019, 2021, 2023)
 * International Conference on (Im)Politeness (2019, 2021)
 
-Invited Talks
+Invited Presentations
 -----
 
-* George Mason University (2022) [Link](https://www.facebook.com/MasonCommDepartment/posts/pfbid02HzW5WS8VsZopr1dz9JhyAwj6AHrCdt824KK7hcP9gFqUDaqBFQsJj5cic1qEpvBql)
-* Shanghai International Studies University (2022) [Link](https://mp.weixin.qq.com/s/1S13e9k2p4XV1g3R0koDUQ)
+* George Mason University ([2022](https://www.facebook.com/MasonCommDepartment/posts/pfbid02HzW5WS8VsZopr1dz9JhyAwj6AHrCdt824KK7hcP9gFqUDaqBFQsJj5cic1qEpvBql))
+* Jiangsu University of Technology ([2020](https://mp.weixin.qq.com/s/QdE2E5TBHybM7TKF8l7hRw))
+* Renmin University of China (2023)
+* Shanghai International Studies University ([2022](https://mp.weixin.qq.com/s/1S13e9k2p4XV1g3R0koDUQ))
