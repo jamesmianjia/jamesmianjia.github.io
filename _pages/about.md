@@ -14,12 +14,12 @@ Welcome to my website! My research explores the key role of language in various 
 Language and Social Influence
 -----
 
-This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these strategic word choices help to promote prosocial behaviors in interpersonal and health contexts. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
+This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these strategic word choices help to promote prosocial behaviors in interpersonal, institutional, and health contexts. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
 
 Chinese Socio-Pragmatics
 -----
 
-This line of research examines the Chinese pragmatic behaviors from various perspectives such as (im)politeness, metapragmatics, gestures, and discourse markers. I aim to critically understand the how Chinese pragmatics research can contribute to the international community. My work has been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
+This line of research examines the Chinese pragmatic behaviors from various perspectives such as (im)politeness, metapragmatics, gestures, and discourse markers. I aim to critically understand how Chinese data help to theorize language use across cultures. My work has been published at [_Lingua_](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf) and [_Text & Talk_](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf).
 
 
 Computational Approaches to Text and Discourse
