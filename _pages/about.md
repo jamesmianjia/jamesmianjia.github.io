@@ -11,10 +11,10 @@ redirect_from:
 Welcome to my website! My research explores the key role of language in various interpersonal, intercultural, health, and mediated contexts. I use methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
 
 
-Language and Social Influence
+Language and the Communication of Wisdom
 -----
 
-This line of research examines the persuasive effects of language features such as markers of agency, facework, and metadiscourse. Drawing on theories from linguistics and communication studies, I seek to understand how these strategic word choices help to promote prosocial behaviors in interpersonal, institutional, and health contexts. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
+Language is a primary means of passing one's wisdom to others in the forms of advice, vlogs, and books. This line of research examines the linguistic features of wisdom communication and their effects on the recipients. Some of the linguistic features I have studied include linguistic agency assignment, linguistic politeness, and metadiscourse markers. My work has been published at [_Applied Linguistics_](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf) and [_Health Communication_](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf).
 
 Chinese Socio-Pragmatics
 -----
