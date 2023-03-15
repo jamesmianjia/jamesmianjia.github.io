@@ -27,6 +27,7 @@ Academic Honors & Awards
 ======
 * Conference Paper Awards: AMPRA (2022), ICA (2021, 2020), NCA (2022)
 * University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023
+* Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022
 * Editors' Choice Article Award, _Lingua: An International Review of General Linguistics_, 2021
 * Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022
 * Provost Supplement Fellowship, UT Austin, 2018–2019
