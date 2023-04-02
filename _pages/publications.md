@@ -38,7 +38,7 @@ Google and CNKI Citations
 Research Articles
 -----
 
-1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–302.
+1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 279–300.
 2. Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. https://doi.org/10.1080/10410236.2022.2147125 [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
 3. Jia, M. & An, Y. (2022). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. https://doi.org/10.1017/S026607842200027X [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
 4. Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. https://doi.org/10.1093/applin/amac063 [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
