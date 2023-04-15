@@ -18,7 +18,8 @@ Peer-Reviewed Conference Presentations
 * International Pragmatics Association Conference (2019, 2021, 2023)
 * International Conference on (Im)Politeness (2019, 2021)
 
-Invited Presentations
+Invited Talks
 -----
 
-George Mason University (2022), Jiangsu University of Technology (2020), Renming University of China (2023), Shanghai International Studies University (2022), Tsinghua University (2023)
+* 2023: Renmin University of China, Tsinghua University
+* 2022: Shanghai International Studies University
