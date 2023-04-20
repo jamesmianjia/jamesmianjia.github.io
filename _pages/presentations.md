@@ -22,4 +22,4 @@ Invited Talks
 -----
 
 * 2023: Renmin University of China, Tsinghua University
-* 2022: Shanghai International Studies University
+* 2022: NCA Doctoral Honors Seminar, Shanghai International Studies University
