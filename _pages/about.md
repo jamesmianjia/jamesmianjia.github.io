@@ -21,8 +21,7 @@ Language and Persuasive Health Message Design
 
 Adopting a message design approach, this line of research explores how subtle language features shape people's evaluation of a health problem and their intentions to follow the health recommendations. Some of the health communicative contexts I have examined include antibiotic resistance, COVID-19, vaccinations for HPV and Pneumonia. My work has been published in _Applied Linguistics_ ([2022](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)), _Health Communication_ ([Online First](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)), and _Pragmatics and Society_ (2023).
 
-
-Computational Approaches to Text and Discourse
+Discourse of Academic Life
 -----
 
-This line of research employs various computational methods to understand language and communication in and outside of academia. Using Linguistic Inquiry and Word Count, my recent publication examines how dissertation writers communicate gratitude in their dissertation acknowledgements across different disciplines. This paper has been published in _English Today_ ([Online First](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)).
+In addition to examining language and communication in social contexts, I am also interested in understanding how scholars use language to construct their identities, manage interpersonal relationships, and become a better self. Some initial work has been published in _English Today_ ([Online First](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)).
