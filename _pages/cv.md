@@ -26,6 +26,7 @@ Professional Appointments
 Academic Honors & Awards
 ======
 * Conference Paper Awards: AMPRA (2022), ICA (2021, 2020), NCA (2022)
+* Outstanding Doctoral Student, Department of Communication Studies, UT Austin, 2023
 * University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023
 * Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022
 * Editors' Choice Article Award, _Lingua: An International Review of General Linguistics_, 2021
