@@ -38,9 +38,9 @@ Google and CNKI Citations
 Research Articles
 -----
 
-1. Jia, M. & Zhao, Y. (in press). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–305.
-2. Zhang, T. Z., Jia, M., & McGlone, M. S. (2022). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
-3. Jia, M. & An, Y. (2022). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
+1. Jia, M. & An, Y. (aop). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
+2. Zhang, T. Z., Jia, M., & McGlone, M. S. (aop). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
+3. Jia, M. & Zhao, Y. (2023). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–305.
 4. Jia, M. (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. [Link](https://doi.org/10.1093/applin/amac063) [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
 5. Jia, M. & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. *Text & Talk*, *42*(5), 691–711. [Link](https://doi.org/10.1515/text-2020-0097) [PDF](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)
 6. Jia, M. (2022). Co-operative actions in Chinese freestyle rap battles: A case of Iron Mic. *Multimodal Communication*, *11*(2), 169–182. [Link](https://doi.org/10.1515/mc-2022-0002) [PDF](https://jamesmianjia.github.io/files/Jia_2022_MC.pdf)
