@@ -21,5 +21,5 @@ Peer-Reviewed Conference Presentations
 Invited Presentations
 -----
 
-* Invited Talks: NCA Doctoral Honors Seminar, Renmin University of China, Shanghai International Studies University, Tsinghua University
+* Research Talks: NCA Doctoral Honors Seminar, Renmin University of China, Shanghai International Studies University, Tsinghua University
 * Guest Lectures: Beihang University, Beijing University of Technology, Jiangsu University of Technology, The University of Texas at Austin, University of International Business and Economics
