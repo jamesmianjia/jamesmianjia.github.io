@@ -26,14 +26,14 @@ table th:nth-of-type(6) {
 }
 </style>
 
-Google and CNKI Citations
+Google Scholar Citations
 -----
 
-| Google Scholar|     All       |   Since 2018  |     CNKI      |      All      |   Since 2018  |   
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|        
-|    Citations  |      11       |       11      |    Citations  |       13      |       13      |
-|     h-index   |       2       |        2      |     h-index   |        1      |        1      |
-|    i10-index  |       0       |        0      |    i10-index  |        1      |        1      |
+|               |     All       |   Since 2018  |
+|:-------------:|:-------------:|:-------------:|   
+|    Citations  |      11       |       11      |
+|     h-index   |       2       |        2      |
+|    i10-index  |       0       |        0      |
 
 Research Articles
 -----
