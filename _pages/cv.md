@@ -15,13 +15,11 @@ Education
 * M.A. in Linguistics, Beihang University, 2018
 * B.A. in English, Beihang University, 2015
 
-Professional Appointments
+Academic Appointments
 ======
-* 2021–2023 Graduate Research Assistant 
-  * Technology & Information Policy Institute, The University of Texas at Austin
-  
-* 2018–2022 Assistant Instructor/Teaching Assistant 
-  * Department of Communication Studies, The University of Texas at Austin
+* The University of Texas at Austin
+  * Graduate Research Assistant, Technology & Information Policy Institute, 01/22 – 05/22
+  * Assistant Instructor/Teaching Assistant, Department of Communication Studies, 08/18 – 05/22
   
 Academic Honors & Awards
 ======
