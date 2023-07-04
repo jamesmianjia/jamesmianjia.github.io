@@ -16,7 +16,7 @@ Peer-Reviewed Conference Presentations
 * International Humor Conference (2019)
 * International Pragmatics Association Conference (2019, 2021, 2023)
 * International Conference on (Im)Politeness (2019, 2021)
-* National Communication Association Conference (2019, 2020, 2021, 2022)
+* National Communication Association Conference (2019, 2020, 2021, 2022, 2023)
 
 Invited Presentations
 -----
