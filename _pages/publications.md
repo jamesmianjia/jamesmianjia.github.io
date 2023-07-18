@@ -38,7 +38,7 @@ Google Scholar Citations
 Research Articles
 -----
 
-1. Alley, E. & Jia, M. (accepted). Pursue the Boo: The relationship between ghosting and unwanted persistent pursuit. *Communication Research Reports*.
+1. Alley, E. & Jia, M. (aop). Pursue the Boo: The relationship between ghosting and unwanted persistent pursuit. *Communication Research Reports*. [Link](https://www.tandfonline.com/doi/full/10.1080/08824096.2023.2235273) [PDF](https://jamesmianjia.github.io/files/Alley_Jia_2023_CRR.pdf)
 2. Jia, M. & An, Y. (aop). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
 3. Zhang, T. Z., Jia, M., & McGlone, M. S. (aop). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
 4. Jia, M. & Zhao, Y. (2023). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–305. [Link](https://doi.org/10.1075/ps.22009.jia) [PDF](https://jamesmianjia.github.io/files/Jia_Zhao_2023_PS.pdf)
