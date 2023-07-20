@@ -19,7 +19,7 @@ Language is a fundamental means of communicating social influence and social sup
 Language and Persuasive Health Message Design
 -----
 
-Adopting a message design approach, this line of research explores how subtle language features shape people's evaluation of a health problem and their intentions to follow the health recommendations. Some of the health communicative contexts I have examined include antibiotic resistance, COVID-19, vaccinations for HPV and Pneumonia. My work has been published in _Applied Linguistics_ ([2022](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)), _Health Communication_ ([Online First](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)), and _Pragmatics and Society_ (2023).
+Adopting a message design approach, this line of research explores how subtle language features shape people's evaluation of a health problem and their intentions to follow the health recommendations. Some of the health communicative contexts I have examined include antibiotic resistance, COVID-19, vaccinations for HPV and Pneumonia. My work has been published in _Applied Linguistics_ ([2022](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)), _Health Communication_ ([Online First](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)), and _Pragmatics and Society_ ([2023](https://jamesmianjia.github.io/files/Jia_Zhao_2023_PS.pdf)).
 
 Discourse of Academic Life
 -----
