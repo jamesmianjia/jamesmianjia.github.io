@@ -17,9 +17,8 @@ Education
 
 Academic Appointments
 ======
-* The University of Texas at Austin
-  * Graduate Research Assistant, Technology & Information Policy Institute, 01/22 – 05/22
-  * Assistant Instructor/Teaching Assistant, Department of Communication Studies, 08/18 – 05/22
+* City University of Hong Kong
+  * Assistant Professor, Department of English, 08/23 – present
   
 Academic Honors & Awards
 ======
