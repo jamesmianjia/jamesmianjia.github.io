@@ -53,7 +53,7 @@ Journal Articles
 Books
 -----
 
-1. Xiang, M., **Jia, M.**, & Bu, X. (2022). *Pragmatics for beginners*. Beijing: Peking University Press. [Link](https://item.jd.com/13323201.html)
+1. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Peking University Press & Springer. [Link](https://link.springer.com/book/9789819964635)
 
 Book Reviews
 -----
