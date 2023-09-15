@@ -86,12 +86,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=EFQ5k8wAAAAJ&hl=en&oi=ao"
   email            : "mianjia@cityu.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Mian-Jia-4" # example: "https://www.researchgate.net/profile/yourprofile"
-  employer         : "https://scholars.cityu.edu.hk/en/persons/james-jia(3d1c35ee-7557-44f1-994b-b8c1d23e5982).html"
+  employer         : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  CityU Scholars   : 
+  cityuscholars   : "https://scholars.cityu.edu.hk/en/persons/james-jia(3d1c35ee-7557-44f1-994b-b8c1d23e5982).html"
   facebook         :
   foursquare       :
   github           :
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0003-1016-2647"
   pinterest        :
   soundcloud       :
