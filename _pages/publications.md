@@ -38,22 +38,28 @@ Google Scholar Citations
 Journal Articles
 -----
 
-1. **Jia, M.** & An, Y. (aop). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
-2. Zhang, T. Z., **Jia, M.**, & McGlone, M. S. (aop). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
-3. Alley, E. & **Jia, M.** (2023). Pursue the Boo: The relationship between ghosting and unwanted persistent pursuit. *Communication Research Reports*, *40*(4), 206-215. [Link](https://www.tandfonline.com/doi/full/10.1080/08824096.2023.2235273) [PDF](https://jamesmianjia.github.io/files/Alley_Jia_2023_CRR.pdf)
-4. **Jia, M.** & Zhao, Y. (2023). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–305. [Link](https://doi.org/10.1075/ps.22009.jia) [PDF](https://jamesmianjia.github.io/files/Jia_Zhao_2023_PS.pdf)
-5. **Jia, M.** (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. [Link](https://doi.org/10.1093/applin/amac063) [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
-6. **Jia, M.** & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. *Text & Talk*, *42*(5), 691–711. [Link](https://doi.org/10.1515/text-2020-0097) [PDF](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)
-7. **Jia, M.** & Xiang, M. (2022). Research fronts and foci of (im)politeness studies in the 21st Century. *Foreign Languages in China*, *19*(3), 53–63. [Link](https://doi.org/10.13564/j.cnki.issn.1672-9382.2022.03.004) [PDF](https://jamesmianjia.github.io/files/Jia_Xiang_2022_FLC.pdf)
-8. **Jia, M.** (2022). Co-operative actions in Chinese freestyle rap battles: A case of Iron Mic. *Multimodal Communication*, *11*(2), 169–182. [Link](https://doi.org/10.1515/mc-2022-0002) [PDF](https://jamesmianjia.github.io/files/Jia_2022_MC.pdf)
-9. Cao, D., Xiang, M., & **Jia, M.** (2021). The disputation between Contextualism and Semantic Minimalism: A bibliometric mapping-knowledge-domain analysis. *Foreign Language Learning: Theory and Practice*, *176*, 8–23. [Link](http://www.teachlanguage.ecnu.edu.cn/CN/Y2021/V176/I4/8) [PDF](https://jamesmianjia.github.io/files/Cao_Xiang_Jia_2021_FLLTP.pdf)
-10. **Jia, M.** & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. *Lingua*, *251*, 103028. [Link](https://doi.org/10.1016/j.lingua.2020.103028) [PDF](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf)
-11. Xiang, M. & **Jia, M.** (2020). A critique of Leechian pragmalinguistic politeness. *Foreign Language Education*, *41*(4), 1–6. [Link](https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_2020_FLE.pdf)
+1. Yao, S. & **Jia, M.** (in press). You-don’t-wanna-mess: A case of nonverbal behavior in Chinese freestyle rap battles. *Western Journal of Communication*.
+2. **Jia, M.** & An, Y. (aop). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. Online First Publication. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
+3. Zhang, T. Z., **Jia, M.**, & McGlone, M. S. (aop). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*. Online First Publication. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
+4. Alley, E. & **Jia, M.** (2023). Pursue the Boo: The relationship between ghosting and unwanted persistent pursuit. *Communication Research Reports*, *40*(4), 206-215. [Link](https://www.tandfonline.com/doi/full/10.1080/08824096.2023.2235273) [PDF](https://jamesmianjia.github.io/files/Alley_Jia_2023_CRR.pdf)
+5. **Jia, M.** & Zhao, Y. (2023). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, *14*(2), 281–305. [Link](https://doi.org/10.1075/ps.22009.jia) [PDF](https://jamesmianjia.github.io/files/Jia_Zhao_2023_PS.pdf)
+6. **Jia, M.** (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. [Link](https://doi.org/10.1093/applin/amac063) [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
+7. **Jia, M.** & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. *Text & Talk*, *42*(5), 691–711. [Link](https://doi.org/10.1515/text-2020-0097) [PDF](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)
+8. **Jia, M.** & Xiang, M. (2022). Research fronts and foci of (im)politeness studies in the 21st Century. *Foreign Languages in China*, *19*(3), 53–63. [Link](https://doi.org/10.13564/j.cnki.issn.1672-9382.2022.03.004) [PDF](https://jamesmianjia.github.io/files/Jia_Xiang_2022_FLC.pdf)
+9. **Jia, M.** (2022). Co-operative actions in Chinese freestyle rap battles: A case of Iron Mic. *Multimodal Communication*, *11*(2), 169–182. [Link](https://doi.org/10.1515/mc-2022-0002) [PDF](https://jamesmianjia.github.io/files/Jia_2022_MC.pdf)
+10. Cao, D., Xiang, M., & **Jia, M.** (2021). The disputation between Contextualism and Semantic Minimalism: A bibliometric mapping-knowledge-domain analysis. *Foreign Language Learning: Theory and Practice*, *176*, 8–23. [Link](http://www.teachlanguage.ecnu.edu.cn/CN/Y2021/V176/I4/8) [PDF](https://jamesmianjia.github.io/files/Cao_Xiang_Jia_2021_FLLTP.pdf)
+11. **Jia, M.** & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. *Lingua*, *251*, 103028. [Link](https://doi.org/10.1016/j.lingua.2020.103028) [PDF](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf)
+12. Xiang, M. & **Jia, M.** (2020). A critique of Leechian pragmalinguistic politeness. *Foreign Language Education*, *41*(4), 1–6. [Link](https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_2020_FLE.pdf)
 
 Books
 -----
 
 1. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Peking University Press & Springer. [Link](https://link.springer.com/book/9789819964635)
+
+Book Chapters
+-----
+
+1. **Jia, M.** (in press). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Identity, intentionality and interpersonal interaction*. Brill.
 
 Book Reviews
 -----
