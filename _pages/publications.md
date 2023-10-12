@@ -31,7 +31,7 @@ Google Scholar Citations
 
 |               |     All       |   Since 2018  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      20       |       20      |
+|    Citations  |      21       |       21      |
 |     h-index   |       2       |        2      |
 |    i10-index  |       1       |        1      |
 
