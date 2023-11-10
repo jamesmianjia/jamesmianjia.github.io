@@ -19,6 +19,7 @@ Academic Appointments
 ======
 * City University of Hong Kong
   * Assistant Professor, Department of English, 08/23 – present
+  * Member, One Health Research Cluster, CLASS, 08/23 – Present
   
 Academic Honors & Awards
 ======
@@ -46,4 +47,3 @@ Professional Memberships
 * International Association of Pragmatics
 * International Communication Association
 * National Communication Association
-
