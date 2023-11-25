@@ -35,6 +35,11 @@ Google Scholar Citations
 |     h-index   |       2       |        2      |
 |    i10-index  |       1       |        1      |
 
+Books
+-----
+
+1. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Peking University Press & Springer. [Link](https://link.springer.com/book/9789819964635)
+
 Journal Articles
 -----
 
@@ -51,17 +56,12 @@ Journal Articles
 11. Cao, D., Xiang, M., & **Jia, M.** (2021). The disputation between Contextualism and Semantic Minimalism: A bibliometric mapping-knowledge-domain analysis. *Foreign Language Learning: Theory and Practice*, *176*, 8–23. [Link](http://www.teachlanguage.ecnu.edu.cn/CN/Y2021/V176/I4/8) [PDF](https://jamesmianjia.github.io/files/Cao_Xiang_Jia_2021_FLLTP.pdf)
 12. Xiang, M. & **Jia, M.** (2020). A critique of Leechian pragmalinguistic politeness. *Foreign Language Education*, *41*(4), 1–6. [Link](https://doi.org/10.16362/j.cnki.cn61-1023/h.2020.04.001) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_2020_FLE.pdf)
 
-Books
------
-
-1. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Peking University Press & Springer. [Link](https://link.springer.com/book/9789819964635)
-
-Book Chapters
+Chapters in Edited Volumes
 -----
 
 1. **Jia, M.** (in press). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Identity, intentionality and interpersonal interaction*. Brill.
 
-Book Reviews
+Minor Publications
 -----
 
 1. **Jia, M.** (2023). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*, *19*(1), 291–295. [Link](https://doi.org/10.1515/pr-2021-0027) [PDF](https://jamesmianjia.github.io/files/Jia_2023_JPR.pdf).
