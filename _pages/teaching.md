@@ -12,7 +12,7 @@ Graduate Courses
 Undergraduate Courses
 -----
 
-1. Language, Communication & Culture, University of Texas at Austin
-2. Professional Communication Skills, University of Texas at Austin
-3. Culture and Communication Skills, Beihang University
-4. Workshop on English Debate, Beihang University
+1. Discourse and Pragmatics, City University of Hong Kong
+2. Workplace Culture and Interaction, City University of Hong Kong
+3. Language, Communication & Culture, University of Texas at Austin
+4. Professional Communication Skills, University of Texas at Austin
