@@ -11,7 +11,7 @@ Peer-Reviewed Conference Presentations
 * American Pragmatics Association Conference (2022)
 * International Association of Applied Linguistics Congress (2024)
 * International Communication Association Conference (2019, 2020, 2021, 2022, 2023)
-* International Conference on Language and Social Psychology (2022)
+* International Conference on Language and Social Psychology (2022, 2024)
 * International Conference on Intercultural Pragmatics and Communication (2022)
 * International Conference on Internet Pragmatics (2020)
 * International Humor Conference (2019)
