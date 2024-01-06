@@ -29,9 +29,9 @@ table th:nth-of-type(6) {
 Google Scholar Citations
 -----
 
-|               |     All       |   Since 2018  |
+|               |     All       |   Since 2019  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      27       |       27      |
+|    Citations  |      30       |       30      |
 |     h-index   |       3       |        3      |
 |    i10-index  |       1       |        1      |
 
