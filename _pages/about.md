@@ -24,4 +24,4 @@ Adopting a message design approach, this line of research explores how subtle la
 Discourse of Academic Life
 -----
 
-In addition to examining language and communication in social contexts, I am also interested in understanding how scholars use language to construct their identities, manage interpersonal relationships, and become a better self. Some initial work has been published in _English Today_ ([Online First](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)).
+In addition to examining language and communication in social contexts, I am also interested in understanding how scholars use language to construct their identities, manage interpersonal relationships, and become a better self. Some initial work has been published in _English Today_ ([2023](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)).
