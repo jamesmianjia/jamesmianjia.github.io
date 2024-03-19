@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Mian Jia"
+title                    : "JIA Mian James"
 title_separator          : "-"
-name                     : &name "Mian Jia"
+name                     : &name "JIA Mian James"
 description              : &description "personal description"
 url                      : https://jamesmianjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "   James Mian Jia"
-  avatar           : "Profile.png"
+  name             : "   JIA Mian James"
+  avatar           : "James Jia.jpg"
   bio              : "Assistant Professor, Department of English, City University of Hong Kong"
   location         :
   googlescholar    : "https://scholar.google.com/citations?user=EFQ5k8wAAAAJ&hl=en&oi=ao"
