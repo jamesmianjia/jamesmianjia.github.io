@@ -15,7 +15,7 @@ Education
 * M.A. in Linguistics and Applied Linguistics, Beihang University, 2018
 * B.A. in English, Beihang University, 2015
 
-Academic Appointments
+Professional Experience
 ======
 * City University of Hong Kong
   * Assistant Professor, Department of English, 08/23 – present
@@ -35,14 +35,14 @@ Academic Honors & Awards
 Professional Service
 ======
 * Reviewer
-  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
+  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of English for Academic Purposes, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
   * Springer
   * International Communication Association Conference, National Communication Association Conference
 * Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2020.
 
 Professional Memberships
 ======
-* American Pragmatics Association
+* China Pragmatics Association
 * International Association of Language and Social Psychology
 * International Association of Pragmatics
 * International Communication Association
