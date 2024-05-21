@@ -38,7 +38,7 @@ Google Scholar Citations
 Books
 -----
 
-1. Xiang, M., **Jia, M.**, & Bu, X. (2022/2024). *Introduction to Pragmatics*. Peking University Press & Springer. [Link](https://link.springer.com/book/9789819964635) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_Bu_2024_Springer.pdf) 
+1. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Springer. [Link](https://link.springer.com/book/9789819964635) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_Bu_2024_Springer.pdf) 
 
 Journal Articles
 -----
@@ -59,7 +59,7 @@ Journal Articles
 Chapters in Edited Volumes
 -----
 
-1. **Jia, M.** (in press). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Identity, intentionality and interpersonal interaction*. Brill.
+1. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction*. Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf) 
 
 Commentaries and Reviews
 -----
