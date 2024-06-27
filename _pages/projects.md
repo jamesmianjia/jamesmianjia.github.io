@@ -8,7 +8,7 @@ author_profile: true
 Ongoing Grants
 -----
 
-1. Faculty Research Start-up Grant, City University of Hong Kong, 2024-2026
+1. Faculty Research Start-up Grant, City University of Hong Kong, 2024–2026
   * Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
   * Role: Princial Investigator
 2. National Social Science Foundation of China: General Project, 2021–2025
