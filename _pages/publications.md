@@ -60,7 +60,7 @@ Journal Articles
 Chapters in Edited Volumes
 -----
 
-1. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction* (pp. 225– 245). Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf) 
+1. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction* (pp. 225– 245). Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf)
 
 Commentaries and Reviews
 -----
