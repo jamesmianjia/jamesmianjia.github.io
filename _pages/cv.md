@@ -20,6 +20,7 @@ Professional Experience
 * City University of Hong Kong
   * Assistant Professor, Department of English, 08/23 – present
   * Member, One Health Research Cluster, CLASS, 08/23 – Present
+  * Member, Frontiers in Professional Communication Lab, Department of English, 05/24 – present
   
 Academic Honors & Awards
 ======
