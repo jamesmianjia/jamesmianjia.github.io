@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Graduate Courses
+Current Courses
 -----
-1. Language in Its Social Context, City University of Hong Kong
+1. EN2711 *The Structure of English*
+2. EN3586 *Workplace Culture and Interaction*
+3. EN3595 *English in Society*
 
-Undergraduate Courses
+Past Courses
 -----
 
-1. Discourse and Pragmatics, City University of Hong Kong
-2. Workplace Culture and Interaction, City University of Hong Kong
-3. Language, Communication & Culture, University of Texas at Austin
-4. Professional Communication Skills, University of Texas at Austin
+1. EN3329 *Discourse and Pragmatics*
+2. EN5461 *Language in Its Social Context*
+
