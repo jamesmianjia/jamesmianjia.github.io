@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My research explores the key role of language in various interpersonal, intercultural, health, and mediated contexts. I use methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China and Merck Pharmaceutical.
+Welcome to my website! My research explores how subtle language features shape people's decision-making in various interpersonal, intercultural, health, and mediated contexts. I use methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China, the Research Grants Council of Hong Kong, and Merck Pharmaceutical.
 
 Language and Persuasive Health Message Design
 -----
