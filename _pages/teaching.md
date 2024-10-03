@@ -7,13 +7,13 @@ author_profile: true
 
 Current Courses
 -----
-1. EN2711 *The Structure of English*
-2. EN3586 *Workplace Culture and Interaction*
-3. EN3595 *English in Society*
+1. EN2711 The Structure of English (F24)
+2. EN3586 Workplace Culture and Interaction (S24, S25)
+3. EN3595 English in Society (S25)
 
 Past Courses
 -----
 
-1. EN3329 *Discourse and Pragmatics*
-2. EN5461 *Language in Its Social Context*
+1. EN3329 Discourse and Pragmatics (S24)
+2. EN5461 Language in Its Social Context (F23)
 
