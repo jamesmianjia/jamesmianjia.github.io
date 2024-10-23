@@ -19,9 +19,13 @@ Peer-Reviewed Conference Presentations
 * International Pragmatics Association Conference (2019, 2021, 2023)
 * International Conference on (Im)Politeness (2019, 2021)
 * National Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2024)
+* National Communication Association Doctoral 
 
 Invited Presentations
 -----
 
-* Research Talks: City University of Hong Kong, George Mason University, Renmin University of China, Shanghai International Studies University, Tsinghua University
-* Guest Lectures: Beihang University, Beijing University of Technology, Jiangsu University of Technology, The University of Texas at Austin, University of International Business and Economics
+* City University of Hong Kong (2023, 2024)
+* Renmin University of China (2023)
+* Shanghai International Studies University (2022)
+* Tsinghua University (2023)
+ 
