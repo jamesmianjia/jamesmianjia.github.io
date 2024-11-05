@@ -19,7 +19,7 @@ Peer-Reviewed Conference Presentations
 * International Pragmatics Association Conference (2019, 2021, 2023)
 * International Conference on (Im)Politeness (2019, 2021)
 * National Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2024)
-* National Communication Association Doctoral 
+* National Communication Association Doctoral Honors Seminar (2022)
 
 Invited Presentations
 -----
