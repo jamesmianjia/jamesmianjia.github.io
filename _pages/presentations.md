@@ -21,7 +21,7 @@ Peer-Reviewed Conference Presentations
 * National Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2024)
 * National Communication Association Doctoral Honors Seminar (2022)
 
-Invited Presentations
+Invited Talks
 -----
 
 * City University of Hong Kong (2023, 2024)
