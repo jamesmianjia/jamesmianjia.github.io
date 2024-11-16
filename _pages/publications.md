@@ -31,7 +31,7 @@ Google Scholar Citations
 
 |               |     All       |   Since 2019  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      52       |       52      |
+|    Citations  |      53       |       53      |
 |     h-index   |       3       |        3      |
 |    i10-index  |       1       |        1      |
 
@@ -43,7 +43,7 @@ Books
 Journal Articles
 -----
 
-1. Su, R., Stephens, K. K., McGlone, M. S., & **Jia, M.** (aop). One HPV vaccination message does not fit all: Differences between young adults deciding to be vaccinated and parents deciding for their children. *Health Communication*. Online First Publication. [Link](http://dx.doi.org/10.1080/10410236.2024.2417115) [PDF](https://jamesmianjia.github.io/files/Su_Stephens_McGlone_Jia_2024_HC.pdf) (This research is featured in [Pharmacy Times](https://www.pharmacytimes.com/view/varying-messaging-strategies-increases-likelihood-of-vaccination-against-hpv))
+1. Su, R., Stephens, K. K., McGlone, M. S., & **Jia, M.** (aop). One HPV vaccination message does not fit all: Differences between young adults deciding to be vaccinated and parents deciding for their children. *Health Communication*. Online First Publication. [Link](http://dx.doi.org/10.1080/10410236.2024.2417115) [PDF](https://jamesmianjia.github.io/files/Su_Stephens_McGlone_Jia_2024_HC.pdf) (This research is featured in [*Pharmacy Times*](https://www.pharmacytimes.com/view/varying-messaging-strategies-increases-likelihood-of-vaccination-against-hpv))
 2. Yao, S. & **Jia, M.** (aop). You-don’t-wanna-mess: A case of nonverbal behavior in Chinese freestyle rap battles. *Western Journal of Communication*. Online First Publication. [Link](https://doi.org/10.1080/10570314.2023.2257638) [PDF](https://jamesmianjia.github.io/files/Yao_Jia_2023_WJoC.pdf)
 3. McGlone, M. S., Stephens, K. K., **Jia, M.**, Montagnolo, C., & Xu, Y. (2024). Multiple messaging strategies for increasing HPV vaccination intentions among English- and Spanish-speaking parents in the United States and Mexico. *Vaccines*, *12*, 650. [Link](https://doi.org/10.3390/vaccines12060650) [PDF](https://jamesmianjia.github.io/files/McGlone_Stephens_Jia_Vaccines_2024.pdf)
 4. **Jia, M.** & An, Y. (2023). Language as an interpersonal marker in English dissertation acknowledgments: Variations across genres and academic disciplines. *English Today*. *39*(4), 315–322. [Link](https://doi.org/10.1017/S026607842200027X) [PDF](https://jamesmianjia.github.io/files/Jia_An_ET.pdf)
@@ -51,7 +51,7 @@ Journal Articles
 6. Alley, E. & **Jia, M.** (2023). Pursue the Boo: The relationship between ghosting and unwanted persistent pursuit. *Communication Research Reports*, *40*(4), 206–215. [Link](https://www.tandfonline.com/doi/full/10.1080/08824096.2023.2235273) [PDF](https://jamesmianjia.github.io/files/Alley_Jia_2023_CRR.pdf)
 7. Zhang, T. Z., **Jia, M.**, & McGlone, M. S. (2023). Combating antibiotic resistance via linguistic agency assignment. *Health Communication*, *38*(14), 3287–3300. [Link](https://doi.org/10.1080/10410236.2022.2147125) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_HC.pdf)
 8. **Jia, M.** (2022). Toward an integrated understanding of language and health communication: Discourse-analytic and message design approaches. *Applied Linguistics*, *43*(6), 1217–1221. [Link](https://doi.org/10.1093/applin/amac063) [PDF](https://jamesmianjia.github.io/files/Jia_2022_AL.pdf)
-9. **Jia, M.** (2022). Co-operative actions in Chinese freestyle rap battles: A case of Iron Mic. *Multimodal Communication*, *11*(2), 169–182. [Link](https://doi.org/10.1515/mc-2022-0002) [PDF](https://jamesmianjia.github.io/files/Jia_2022_MC.pdf)
+9. **Jia, M.** (2022). Co-operative actions in Chinese freestyle rap battles: A case of *Iron Mic*. *Multimodal Communication*, *11*(2), 169–182. [Link](https://doi.org/10.1515/mc-2022-0002) [PDF](https://jamesmianjia.github.io/files/Jia_2022_MC.pdf)
 10. **Jia, M.** & Yao, S. (2022). ‘Yo I am Superman, You Kiddo Go Home’: Ritual impoliteness in Chinese freestyle rap battles. *Text & Talk*, *42*(5), 691–711. [Link](https://doi.org/10.1515/text-2020-0097) [PDF](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)
 11. **Jia, M.** & Xiang, M. (2022). Research fronts and foci of (im)politeness studies in the 21st Century. *Foreign Languages in China*, *19*(3), 53–63. [Link](https://doi.org/10.13564/j.cnki.issn.1672-9382.2022.03.004) [PDF](https://jamesmianjia.github.io/files/Jia_Xiang_2022_FLC.pdf)
 12. **Jia, M.** & Yang, G. (2021). Emancipating Chinese (im)politeness research: Looking back and looking forward. *Lingua*, *251*, 103028. [Link](https://doi.org/10.1016/j.lingua.2020.103028) [PDF](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf)
@@ -61,7 +61,7 @@ Journal Articles
 Chapters in Edited Volumes
 -----
 
-1. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction* (pp. 225– 245). Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf)
+1. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction* (pp. 225–245). Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf)
 
 Commentaries and Reviews
 -----
