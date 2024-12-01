@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <style>
+table {
+    width: 50%; /* Set table width to 50% of the screen */
+    border-collapse: collapse;
+    margin: 0; /* Align to the left */
+}
 table th:first-of-type {
     width: 17%;
 }
@@ -24,6 +29,9 @@ table th:nth-of-type(5) {
 table th:nth-of-type(6) {
     width: 17%;
 }
+th, td {
+    font-size: $type-size-6; /* Set font size for table text */
+        }
 </style>
 
 Google Scholar Citations
