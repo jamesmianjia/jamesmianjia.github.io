@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * Ph.D. in Communication Studies, The University of Texas at Austin, 2023
 * M.A. in Linguistics and Applied Linguistics, Beihang University, 2018
 * B.A. in English, Beihang University, 2015
 
 Professional Experience
-======
+-----
 * City University of Hong Kong
   * Assistant Professor, Department of English, 08/23 – present
   * Member, One Health Research Cluster, CLASS, 08/23 – Present
   * Member, Frontiers in Professional Communication Lab, Department of English, 05/24 – present
   
 Academic Honors & Awards
-======
+-----
 * Conference Paper Awards: AMPRA (2022), ICA (2021, 2020), NCA (2022)
 * Outstanding Doctoral Student, Department of Communication Studies, UT Austin, 2023
 * University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023
@@ -34,7 +34,7 @@ Academic Honors & Awards
 * Graduate School Recruitment Fellowship, UT Austin, 2018–2019
 
 Professional Service
-======
+-----
 * Reviewer
   * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of English for Academic Purposes, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
   * Springer
@@ -42,7 +42,7 @@ Professional Service
 * Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2020.
 
 Professional Memberships
-======
+-----
 * China Pragmatics Association
 * International Association of Language and Social Psychology
 * International Association of Pragmatics
