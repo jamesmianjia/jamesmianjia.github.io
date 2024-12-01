@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 <style>
-table {
-    width: 50%; /* Set table width to 50% of the screen */
-    border-collapse: collapse;
-    margin: 0; /* Align to the left */
-}
 table th:first-of-type {
     width: 17%;
 }
