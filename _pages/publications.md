@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 table {
-    width: 70%; /* Set table width to 50% of the screen */
+    width: 65%; /* Set table width to 65% of the screen */
     border-collapse: collapse;
     margin: 0; /* Align to the left */
 }
@@ -39,7 +39,7 @@ Google Scholar Citations
 
 |               |     All       |   Since 2019  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      55       |       55      |
+|    Citations  |      58       |       58      |
 |     h-index   |       4       |        4      |
 |    i10-index  |       1       |        1      |
 
