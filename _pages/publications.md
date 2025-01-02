@@ -37,7 +37,7 @@ th, td {
 Google Scholar Citations
 -----
 
-|               |     All       |   Since 2019  |
+|               |     All       |   Since 2020  |
 |:-------------:|:-------------:|:-------------:|   
 |    Citations  |      60       |       60      |
 |     h-index   |       4       |        4      |
