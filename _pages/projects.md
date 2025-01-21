@@ -7,7 +7,7 @@ author_profile: true
 
 Grants on Health Communication
 -----
-1. University Grants Committee of Hong Kong: Early Career Scheme, 2025–2026
+1. Research Grants Council of Hong Kong: Early Career Scheme, 2025–2026
   * Title: Messaging Strategies for Promoting HPV Vaccination Among Bilingual Males in Hong Kong
   * Role: Principal Investigator
     
