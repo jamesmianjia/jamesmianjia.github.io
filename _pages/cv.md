@@ -18,9 +18,9 @@ Education
 Professional Experience
 -----
 * City University of Hong Kong
-  * Assistant Professor, Department of English, 08/23 – present
-  * Member, One Health Research Cluster, CLASS, 08/23 – Present
-  * Member, Frontiers in Professional Communication Lab, Department of English, 05/24 – present
+  * Assistant Professor, Department of English, 08/23–present
+  * Member, One Health Research Cluster, CLASS, 08/23–Present
+  * Member, Frontiers in Professional Communication Lab, Department of English, 05/24–present
   
 Academic Honors & Awards
 -----
@@ -39,7 +39,8 @@ Professional Service
   * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of English for Academic Purposes, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
   * Springer
   * International Communication Association Conference, National Communication Association Conference
-* Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2020.
+* Conference Program Co-Chair, 8th LSP & Professional Communication Conference, 2024–2025.
+* Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2019–2020.
 
 Professional Memberships
 -----
