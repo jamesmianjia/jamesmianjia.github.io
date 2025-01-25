@@ -21,6 +21,7 @@ Grants on Linguistic Pragmatics
 1. City University of Hong Kong: Faculty Teaching Start-up Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Role: Principal Investigator
+  * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
 2. National Social Science Foundation of China: General Project, 2021–2025
   * Title: An Artificial Intelligence Oriented Game Theoretical Study of Speech Acts (面向人工智能的言语行为博弈机制研究)
