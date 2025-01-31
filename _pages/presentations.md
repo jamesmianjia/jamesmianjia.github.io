@@ -16,7 +16,7 @@ Peer-Reviewed Conference Presentations
 * International Conference on Internet Pragmatics (2020)
 * International Humor Conference (2019)
 * International and Interdisciplinary Conference on Applied Linguistics and Professional Practice (2024)
-* International Pragmatics Association Conference (2019, 2021, 2023)
+* International Pragmatics Association Conference (2019, 2021, 2023, 2025)
 * International Conference on (Im)Politeness (2019, 2021)
 * National Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2024)
 * National Communication Association Doctoral Honors Seminar (2022)
