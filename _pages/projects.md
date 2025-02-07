@@ -18,7 +18,7 @@ Grants on Health Communication
 
 Grants on Linguistic Pragmatics
 -----
-1. City University of Hong Kong: Faculty Teaching Start-up Grant, 2024–2026
+1. City University of Hong Kong: Teaching Development Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Role: Principal Investigator
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
