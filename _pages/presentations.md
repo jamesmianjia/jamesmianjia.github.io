@@ -25,7 +25,7 @@ Invited Talks
 -----
 
 * City University of Hong Kong (2023, 2024)
+* Guangdong University of Foreign Studies (2025) 
 * Renmin University of China (2023)
 * Shanghai International Studies University (2022)
 * Tsinghua University (2023)
- 
