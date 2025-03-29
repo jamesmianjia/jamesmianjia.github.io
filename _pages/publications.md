@@ -47,7 +47,7 @@ Books
 -----
 
 1. McGlone, M. S. & **Jia, M.** (under contract). *Where the action is: Linguistic agency assignment in health communication*. Cambridge University Press.
-2. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to Pragmatics*. Springer. [Link](https://link.springer.com/book/9789819964635) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_Bu_2024_Springer.pdf) 
+2. Xiang, M., **Jia, M.**, & Bu, X. (2024). *Introduction to pragmatics*. Springer. [Link](https://link.springer.com/book/9789819964635) [PDF](https://jamesmianjia.github.io/files/Xiang_Jia_Bu_2024_Springer.pdf) 
 
 Journal Articles
 -----
