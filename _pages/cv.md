@@ -36,8 +36,9 @@ Academic Honors & Awards
 Professional Service
 -----
 * Reviewer
-  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
+  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Historical Pragmatics, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Pragmtics and Society_
   * Springer
+  * Palgrave Macmillan
   * International Communication Association Conference, National Communication Association Conference
 * Executive Board Member, International Association of Language and Social Psychology, 2024–2026.
 * Conference Program Co-Chair, 8th LSP & Professional Communication Conference, 2024–2025.
