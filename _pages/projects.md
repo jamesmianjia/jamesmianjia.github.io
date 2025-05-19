@@ -15,7 +15,7 @@ Grants on Persuasive Health Communication
   * Title: Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
   * Role: Princial Investigator
 
-Grants on Interpersonal Communication
+Grants on AI-Mediated Communication
 -----
 1. City University of Hong Kong: Teaching Start-up Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
