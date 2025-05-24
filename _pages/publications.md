@@ -39,9 +39,9 @@ Google Scholar Citations
 
 |               |     All       |   Since 2020  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      85       |       83      |
-|     h-index   |       5       |        5      |
-|    i10-index  |       3       |        3      |
+|    Citations  |      86       |       84      |
+|     h-index   |       6       |        6      |
+|    i10-index  |       3       |        2      |
 
 Books
 -----
