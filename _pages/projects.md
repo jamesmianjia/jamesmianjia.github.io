@@ -10,8 +10,12 @@ Grants on Persuasive Health Communication
 1. Research Grants Council of Hong Kong: Early Career Scheme, 2025–2026
   * Title: Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong
   * Role: Principal Investigator
+
+2. University of Chicago: Provost's Global Faculty Awards
+  * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
+  * Role: Co-Principal Investigator
     
-2. City University of Hong Kong: Faculty Research Start-up Grant, 2024–2026
+3. City University of Hong Kong: Faculty Research Start-up Grant, 2024–2026
   * Title: Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
   * Role: Princial Investigator
 
