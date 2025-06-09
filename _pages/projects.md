@@ -11,7 +11,7 @@ Grants on Persuasive Health Communication
   * Title: Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong
   * Role: Principal Investigator
 
-2. University of Chicago: Provost's Global Faculty Awards
+2. University of Chicago: Provost's Global Faculty Awards, 2025–2026
   * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
   * Role: Co-Principal Investigator
     
