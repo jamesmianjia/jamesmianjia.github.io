@@ -39,7 +39,7 @@ Google Scholar Citations
 
 |               |     All       |   Since 2020  |
 |:-------------:|:-------------:|:-------------:|   
-|    Citations  |      88       |       86      |
+|    Citations  |      90       |       88      |
 |     h-index   |       6       |        6      |
 |    i10-index  |       3       |        3      |
 
