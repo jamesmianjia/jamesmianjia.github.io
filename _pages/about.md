@@ -17,7 +17,7 @@ Using discourse-analytic and experimental message design approaches, my first li
 
 Prof. Matthew McGlone (University of Texas at Austin) and I are currently guest editing a special issue for _Vaccines_ on [Vaccination Strategies and Population Immunity](https://www.mdpi.com/journal/vaccines/special_issues/2P54F25P94). The submission deadline is June 30, 2025. Please consider submitting to our special issue. 
 
-Language and Interpersonal Communication
+Language and Interpersonal Influence
 -----
 
 Drawing on insights from linguistic pragmatics and communication studies, my second line of research examines how interlocutors use linguistic (im)politeness and other metadiscourse markers to communicate social support and social influence in various interpersonal and intercultural contexts. My current projects examine how a strategic choice of these subtle linguistic features shapes recipients' perceptions, intentions, and behaviors in face-to-face and mediated contexts. Some of the face-sensitive contexts I have studied include giving advice, responding to compliments, managing trolling, and performing ritual insults. My work has been published in _Lingua_ ([2021](https://jamesmianjia.github.io/files/Jia_Yang_2021_Lingua.pdf)) and _Text & Talk_ ([2022](https://jamesmianjia.github.io/files/Jia_Yao_2022_TT.pdf)).
