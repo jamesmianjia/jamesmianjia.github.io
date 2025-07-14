@@ -27,7 +27,7 @@ Grants on AI-Mediated Communication
   * Role: Principal Investigator
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
-2. National Social Science Foundation of China: General Project, 2021–2025
+2. National Social Science Foundation of China: General Project, 2021–2026
   * Title: An Artificial Intelligence Oriented Game Theoretical Study of Speech Acts (面向人工智能的言语行为博弈机制研究)
   * Role: Co-Investigator
   * Publications: [Jia (2022)](https://jamesmianjia.github.io/files/Jia_2022_JoP.pdf), [Jia & Xiang (2022)](https://jamesmianjia.github.io/files/Jia_Xiang_2022_FLC.pdf)
