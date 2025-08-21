@@ -53,7 +53,7 @@ Books
 Journal Articles
 -----
 
-1. **Jia, M.** (in press). Using Call Annie to teach Schein’s onion model of organizational culture. *Communication Teacher*, Online first publication. [Link](https://doi.org/10.1080/17404622.2025.2532619)
+1. **Jia, M.** (2025). Using Call Annie to teach Schein’s onion model of organizational culture. *Communication Teacher*, Online First Publication. [Link](https://doi.org/10.1080/17404622.2025.2532619) [PDF](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
 2. **Jia, M.** (2025). Applying linguistic theories to design eﬀective public health messages: Implications for HPV vaccination promotion among Chinese-English bilinguals in Hong Kong. *Human Vaccines & Immunotherapeutics*, *21*(1), 2518845. [Link](https://doi.org/10.1080/21645515.2025.2518845) [PDF](https://jamesmianjia.github.io/files/Jia_2025_HV&I.pdf) 
 3. Su, R., Stephens, K. K., McGlone, M. S., & **Jia, M.** (2025). One HPV vaccination message does not fit all: Differences between young adults deciding to be vaccinated and parents deciding for their children. *Health Communication*, *40*(9), 1645–1660. [Link](http://dx.doi.org/10.1080/10410236.2024.2417115) [PDF](https://jamesmianjia.github.io/files/Su_Stephens_McGlone_Jia_2025_HC.pdf) (This research is featured in [*Pharmacy Times*](https://www.pharmacytimes.com/view/varying-messaging-strategies-increases-likelihood-of-vaccination-against-hpv))
 4. Yang, G. & **Jia, M**. (2025). Diachronic research on Chinese discourse markers in China: Looking back and moving forward. *Sage Open*, *15*(1), 1–16. [Link](https://doi.org/10.1177/21582440251321218) [PDF](https://jamesmianjia.github.io/files/Yang_Jia_2025_SO.pdf)
