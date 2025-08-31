@@ -10,7 +10,6 @@ Peer-Reviewed Conference Presentations
 
 * American Pragmatics Association Conference (2022)
 * Asian Association of Social Psychology Conference (2025)
-* China Pragmatics Association Conference (2023, 2025)
 * International Association of Applied Linguistics Congress (2024)
 * International Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2025)
 * International Conference of the Asia-Pacific LSP & Professional Communication Association (2025)
@@ -23,6 +22,11 @@ Peer-Reviewed Conference Presentations
 * International Conference on (Im)Politeness (2019, 2021)
 * National Communication Association Conference (2019, 2020, 2021, 2022, 2023, 2024)
 * National Communication Association Doctoral Honors Seminar (2022)
+
+Keynote Addresses
+-----
+
+* China Pragmatics Association Conference (2025)
 
 Invited Talks
 -----
