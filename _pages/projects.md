@@ -25,7 +25,7 @@ Grants on AI-Mediated Communication
 1. City University of Hong Kong: Teaching Start-Up Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Role: Principal Investigator
-  * Publications: [Jia (2025)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
+  * Publications: [Jia (aop)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
 2. National Social Science Foundation of China: General Project, 2021–2026
