@@ -22,13 +22,17 @@ Grants on Persuasive Health Communication
 
 Grants on AI-Mediated Communication
 -----
-1. City University of Hong Kong: Teaching Start-Up Grant, 2024–2026
+1. Ministry of Education of China: Humanities and Social Sciences Young Scholar Project, 2025-2028
+  * Title: Mechanism of Pragmatic Inference in Human-Computer Interaction for Artificial General Intelligence (面向通用人工智能的人机协同与用推理机制研究)
+  * Role Co-Investigator (X. Liu is PI)
+
+2. City University of Hong Kong: Teaching Start-Up Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Role: Principal Investigator
   * Publications: [Jia (aop)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
-2. National Social Science Foundation of China: General Project, 2021–2026
+3. National Social Science Foundation of China: General Project, 2021–2026
   * Title: An Artificial Intelligence Oriented Game Theoretical Study of Speech Acts (面向人工智能的言语行为博弈机制研究)
   * Role: Co-Investigator (M. Xiang is PI)
   * Publications: [Jia (2022)](https://jamesmianjia.github.io/files/Jia_2022_JoP.pdf), [Jia & Xiang (2022)](https://jamesmianjia.github.io/files/Jia_Xiang_2022_FLC.pdf)
