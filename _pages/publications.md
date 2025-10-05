@@ -34,14 +34,6 @@ th, td {
         }
 </style>
 
-Google Scholar Citations
------
-
-|               |     All       |   Since 2020  |
-|:-------------:|:-------------:|:-------------:|   
-|    Citations  |      101      |       99      |
-|     h-index   |       6       |        6      |
-|    i10-index  |       3       |        3      |
 
 Books
 -----
