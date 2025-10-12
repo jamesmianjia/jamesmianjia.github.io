@@ -24,14 +24,13 @@ Professional Experience
   
 Academic Honors & Awards
 -----
-* Conference Paper Awards: AMPRA (2022), CPrA (2025), ICA (2021, 2020), NCA (2022)
-* Outstanding Doctoral Student, Department of Communication Studies, UT Austin, 2023
-* University Graduate Continuing Fellowship, Graduate School, UT Austin, 2022–2023
-* Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022
-* Editors' Choice Article Award, _Lingua: An International Review of General Linguistics_, 2021
-* Graduate Fellowship, Moody College of Communication, UT Austin, 2019–2022
-* Provost Supplement Fellowship, UT Austin, 2018–2019
-* Graduate School Recruitment Fellowship, UT Austin, 2018–2019
+* Young Scholar Paper Award, 19th China Pragmatics Association Conference, 2025.
+* Top Paper Award, Communication and Social Cognition, NCA, 2022.
+* Graduate Student Travel Award, AMPRA, 2022.
+* Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022.
+* Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021.  
+* Top Student Paper Award, Language and Social Interaction Division, ICA, 2021.
+* Top Paper Award, Intergroup Communication Division, ICA, 2020.
 
 Professional Service
 -----
