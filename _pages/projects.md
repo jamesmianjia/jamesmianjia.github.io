@@ -8,7 +8,7 @@ author_profile: true
 External Grants
 -----
 1. Ministry of Education of China: Humanities and Social Sciences Young Scholar Project, 2025-2028
-  * Title: Mechanism of Pragmatic Inference in Human-Computer Interaction for Artificial General Intelligence (面向通用人工智能的人机协同与用推理机制研究)
+  * Title: Mechanism of Pragmatic Inference in Human-Machine Collaboration for Artificial General Intelligence (面向通用人工智能的人机协同与用推理机制研究)
   * Role Co-Investigator (PI is X. Liu)
     
 2. Research Grants Council of Hong Kong: Early Career Scheme, 2025–2026
