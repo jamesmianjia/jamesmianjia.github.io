@@ -29,16 +29,17 @@ Internal Grants
   * Title: Enhancing intercultural communication competence and well-being through team-based digital storytelling in an AI-supported learning environment
   * Role: Co-Investigator (PI is B. Yu)
 
-2. City University of Hong Kong: Faculty Research Start-Up Grant, 2024–2026
+2. CityUHK-Exeter Initiator Grant, 2025–2025
+  * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
+  * Role: Principal Investigator
+
+3. City University of Hong Kong: Faculty Research Start-Up Grant, 2024–2026
   * Title: Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
   * Role: Princial Investigator
 
-3. City University of Hong Kong: Teaching Start-Up Grant, 2024–2026
+4. City University of Hong Kong: Teaching Start-Up Grant, 2024–2026
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Role: Principal Investigator
   * Publications: [Jia (aop)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
-4. CityUHK-Exeter Initiator Grant, 2025–2025
-  * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
-  * Role: Principal Investigator
