@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Below is a list of grants that I serve as the principal investigator. I have also served as a co-investigator in projects funded by the National Social Science Foundation of China, the Ministry of Education of China, the University Grants Committee of Hong Kong, and various internal funding bodies. 
+Below is a list of grants that I serve as the principal investigator. I have also served as a co-investigator on projects funded by the National Social Science Foundation of China, the Ministry of Education of China, the University Grants Committee of Hong Kong, and various internal funding bodies. 
 
 External Grants
 -----    
