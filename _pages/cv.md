@@ -19,7 +19,6 @@ Professional Experience
 -----
 * City University of Hong Kong
   * Assistant Professor, Department of English, 08/23–present
-  * Member, One Health Research Cluster, CLASS, 08/23–Present
   * Member, Frontiers in Professional Communication Lab, Department of English, 05/24–present
   
 Academic Honors & Awards
@@ -35,7 +34,7 @@ Academic Honors & Awards
 Professional Service
 -----
 * Reviewer
-  * _Discourse, Context & Media, East Asian Pragmatics, Health Communication, International Journal of Cultural Studies, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Historical Pragmatics, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Lingua, Pragmtics and Society_
+  * _Applied Corpus Linguistics, Discourse, Context & Media, East Asian Pragmatics, Health Communication, International Journal of Cultural Studies, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Historical Pragmatics, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Lingua, Pragmtics and Society_
   * Palgrave Macmillan, Routledge, Springer
   * International Communication Association Conference, National Communication Association Conference
 * Executive Board Member, International Association of Language and Social Psychology, 2024–2026.
