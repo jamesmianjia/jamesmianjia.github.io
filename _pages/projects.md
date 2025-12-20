@@ -15,13 +15,16 @@ External Grants
 
 Internal Grants
 -----
-1. CityUHK-Exeter Initiator Grant, 05/25–07/25
+1. CityUHK-Exeter Initiator Grant, 12/25–07/26
+  * Title: Using Strategic Agency Framing in Risk Communication to Reduce Alcohol Consumption
+
+2. CityUHK-Exeter Initiator Grant, 05/25–07/25
   * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
 
-2. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/26
+3. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/26
   * Title: Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
 
-3. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26
+4. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
   * Publications: [Jia (aop)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
