@@ -37,4 +37,5 @@ Invited Talks
 * Renmin University of China (2023)
 * Shanghai International Studies University (2022)
 * Tsinghua University (2023)
+* University of International Business and Economics (2025)
 * Xiamen University (2025)
