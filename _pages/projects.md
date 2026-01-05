@@ -5,27 +5,23 @@ permalink: /projects/
 author_profile: true
 ---
 
-Below is a list of grants that I serve as the principal investigator. I have also served as a co-investigator on projects funded by the National Social Science Foundation of China, the Ministry of Education of China, the University Grants Committee of Hong Kong, and various internal funding bodies. 
+Below is a list of grants that I serve as the principal investigator or the co-principal investigator. I have also served as a co-investigator on projects funded by the National Social Science Foundation of China, the Ministry of Education of China, the University Grants Committee of Hong Kong, and various internal funding bodies. 
 
 External Grants
 -----    
-1. Research Grants Council of Hong Kong: Early Career Scheme, 01/25–12/26
-  * Title: Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong
-  * Publications: [Jia (2025)](https://jamesmianjia.github.io/files/Jia_2025_HV&I.pdf) 
+1. Research Grants Council of Hong Kong: Early Career Scheme, 01/25–12/26 <br> Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong, 597,500 HKD.
 
 Internal Grants
 -----
-1. CityUHK-Exeter Initiator Grant, 12/25–07/26
-  * Title: Using Strategic Agency Framing in Risk Communication to Reduce Alcohol Consumption
+1. University of Exeter-CityUHK Initiator Grant, 12/25–06/26 <br> Using strategic Agency Assignment to Reduce Drinking Intentions in Europe, £4,980. <br>
 
-2. CityUHK-Exeter Initiator Grant, 05/25–07/25
-  * Title: Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption
+2. CityUHK-University of Exeter Initiator Grant, 05/25–07/25 <br> Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption, 51,304 HKD. <br>
 
-3. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/26
-  * Title: Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong
+3. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/26 <br> Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong, 300,000 HKD. <br>
 
-4. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26
-  * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
-  * Publications: [Jia (2026)](https://jamesmianjia.github.io/files/Jia_2026_CT.pdf)
-  * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
+4. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26 <br> ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace, 112,631 HKD. <br>
+
+Project Websites
+-----
+ Simulating Workplace Interactions: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
