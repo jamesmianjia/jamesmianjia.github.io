@@ -26,6 +26,6 @@ Internal Grants
 
 4. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26
   * Title: ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace
-  * Publications: [Jia (aop)](https://jamesmianjia.github.io/files/Jia_2025_CT.pdf)
+  * Publications: [Jia (2026)](https://jamesmianjia.github.io/files/Jia_2026_CT.pdf)
   * Project Website: [https://sites.google.com/view/simulating-interactions](https://sites.google.com/view/simulating-interactions)
     
