@@ -13,7 +13,7 @@ External Grants
 
 Internal Grants
 -----
-1. University of Exeter-CityUHK Initiator Grant, 12/25–06/26, 4,980 GBP <br> Using strategic Agency Assignment to Reduce Drinking Intentions in Europe. <br>
+1. University of Exeter-CityUHK Initiator Grant, 12/25–06/26, 4,980 GBP <br> Using Strategic Agency Assignment to Reduce Drinking Intentions in Europe. <br>
 
 2. CityUHK-University of Exeter Initiator Grant, 05/25–07/25, 51,304 HKD <br> Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption. <br>
 
