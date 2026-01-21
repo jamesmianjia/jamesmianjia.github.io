@@ -8,12 +8,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! Using discourse-analytic and experimental message design approaches, I explore how subtle language features shape people's decision-making in various interpersonal, intercultural, health, and mediated contexts. I use methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China, the Research Grants Council of Hong Kong, and Merck Pharmaceutical.
+Welcome to my website! I explore how subtle language features shape people's decision-making in various interpersonal, intercultural, health, and mediated contexts. I use methods such as experimental design, corpus analysis, content analysis, and computerized text analysis. My research has been funded by the National Social Science Foundation of China, the Research Grants Council of Hong Kong, and Merck Pharmaceutical.
 
 Language and Persuasive Health Message Design
 -----
 
-my first line of research examines the persuasive effects of linguistic and normative message influence strategies on raising people's awareness of health issues in multilingual societies and across different languacultures. My current projects focus on using multiple messaging strategies to promote HPV vaccination and reduce alcohol consumption intentions. 
+Using discourse-analytic and experimental message design approaches, my first line of research examines the persuasive effects of linguistic and normative message influence strategies on raising people's awareness of health issues in multilingual societies and across different languacultures. My current projects focus on using multiple messaging strategies to promote HPV vaccination and reduce alcohol consumption intentions. 
 
 * Jia, M. (2025). Applying linguistic theories to design effective public health messages: Implications for HPV vaccination promotion among Chinese-English bilinguals in Hong Kong. *Human Vaccines & Immunotherapeutics*, 21(1), 2518845. https://doi.org/10.1080/21645515.2025.2518845
 * Jia, M. & Zhao, Y. (2023). Fear appeals in public signs of COVID-19 prevention in Chinese local communities. *Pragmatics and Society*, 14(2), 281–305. https://doi.org/10.1075/ps.22009.jia
