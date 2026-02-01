@@ -69,7 +69,7 @@ Journal Articles
 Chapters in Edited Volumes
 -----
 
-1. **Jia, M.** (accepted). Exploring metalinguistic patterns with large-scale corpora: A case of Chinese notions of face and politeness. In S. Arndt-Lappe, M. Belosevic, P. Maurer, C. Moulin, A. Rettinger, & S. Stumpf (Eds.), *Patterns in language and communication: Between theoretical grounding and empirical methods*. De Gruyter Mouton.
+1. **Jia, M.** (in press). Exploring metalinguistic patterns with large-scale corpora: A case of Chinese notions of face and politeness. In S. Arndt-Lappe, S. Stumpf, M. Belosevic, P. Maurer, C. Moulin, & A. Rettinger (Eds.), *Patterns in language and communication: Between theoretical grounding and empirical methods*. De Gruyter Mouton.
 2. **Jia, M.** (2024). Cross-modal management of trolling during live streaming on Periscope: A micro-analysis. In S. Tanskanen, L. Lehti, K. V. Lexander, M. T. Virtanen, & C. Xie (Eds.), *Explorations in Internet Pragmatics: Intentionality, identity, and interpersonal interaction* (pp. 225–245). Brill. [Link](https://doi.org/10.1163/9789004694453_011) [PDF](https://jamesmianjia.github.io/files/Jia_2024_EIP.pdf)
 
 Commentaries and Reviews
