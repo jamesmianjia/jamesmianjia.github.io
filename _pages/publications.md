@@ -45,7 +45,7 @@ Books
 Journal Articles
 -----
 
-1. **Jia, M.** (in press). Evaluations of Chinese compliment responses: Accounting for individual differences in attributed pragmatic reasons. *Journal of Pragmatics*.
+1. **Jia, M.** (2026). Evaluations of Chinese compliment responses: Accounting for individual differences in attributed pragmatic reasons. *Journal of Pragmatics*., *255*, 71–82. [Link](https://doi.org/10.1016/j.pragma.2026.01.013) [PDF](https://jamesmianjia.github.io/files/Jia_2026_JoP.pdf)
 2. Zhang, T. Z., **Jia, M.**, & McGlone, M. S. (2026). Pills, rebel yells, and red dye spills: Preventing the misuse of antibiotics via language and color cues. *Health Communication*. Advance online publication. [Link](https://doi.org/10.1080/10410236.2025.2609954) [PDF](https://jamesmianjia.github.io/files/Zhang_Jia_McGlone_aop_HC.pdf)
 3. **Jia, M.** (2026). Using Call Annie to teach Schein’s onion model of organizational culture. *Communication Teacher*, *40*(1), 36–41. [Link](https://doi.org/10.1080/17404622.2025.2532619) [PDF](https://jamesmianjia.github.io/files/Jia_2026_CT.pdf)
 4. **Jia, M.** (2025). Applying linguistic theories to design eﬀective public health messages: Implications for HPV vaccination promotion among Chinese-English bilinguals in Hong Kong. *Human Vaccines & Immunotherapeutics*, *21*(1), 2518845. [Link](https://doi.org/10.1080/21645515.2025.2518845) [PDF](https://jamesmianjia.github.io/files/Jia_2025_HV&I.pdf) 
