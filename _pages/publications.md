@@ -75,8 +75,8 @@ Chapters in Edited Volumes
 Commentaries and Reviews
 -----
 
-1. **Jia, M.** (2024). Language and cultural norms influence vaccine hesitancy. *Nature*. *627*, 489–489. [Link](https://doi.org/10.1038/d41586-024-00826-x) [PDF](https://jamesmianjia.github.io/files/Jia_2024_Nature.pdf).
-2. **Jia, M.** (2023). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*, *19*(1), 291–295. [Link](https://doi.org/10.1515/pr-2021-0027) [PDF](https://jamesmianjia.github.io/files/Jia_2023_JPR.pdf).
+1. **Jia, M.** (2024). Language and cultural norms influence vaccine hesitancy. *Nature*. *627*, 489–489. [Link](https://doi.org/10.1038/d41586-024-00826-x) [PDF](https://jamesmianjia.github.io/files/Jia_2024_Nature.pdf)
+2. **Jia, M.** (2023). From speech acts to lay understandings of politeness: Multilingual and multicultural perspectives. *Journal of Politeness Research*, *19*(1), 291–295. [Link](https://doi.org/10.1515/pr-2021-0027) [PDF](https://jamesmianjia.github.io/files/Jia_2023_JPR.pdf)
 3. **Jia, M.** (2022). Why language? What pragmatics tells us about language and communication. *Journal of Pragmatics*, *188*, 80–82. [Link](https://doi.org/10.1016/j.pragma.2021.12.005) [PDF](https://jamesmianjia.github.io/files/Jia_2022_JoP.pdf)
 4. **Jia, M.** & An, Y. (2021). Complimenting behavior and (self-)praise across social media. *International Journal of Communication*, *15*, 2112–2115. [Link](https://ijoc.org/index.php/ijoc/article/view/17620/3433) [PDF](https://jamesmianjia.github.io/files/Jia_An_2021_IJoC.pdf)
 
