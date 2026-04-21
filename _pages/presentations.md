@@ -28,6 +28,7 @@ Plenary Addresses
 -----
 
 * China Pragmatics Association Conference (2025)
+* International Symposium on Language Science and Human Well-Being (2026)
 
 Invited Talks
 -----
