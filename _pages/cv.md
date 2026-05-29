@@ -34,7 +34,7 @@ Academic Honors & Awards
 Professional Service
 -----
 * Reviewer
-  * _Applied Corpus Linguistics, Applied Linguistics, Discourse, Context & Media, East Asian Pragmatics, Frontiers in Public Health, Health Communication, International Journal of Cultural Studies, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Historical Pragmatics, Journal of Politeness Research, Journal of Pragmatics, Language Sciences, Lingua, Pragmtics and Society_
+  * _Applied Corpus Linguistics, Applied Linguistics, Discourse, Context & Media, East Asian Pragmatics, Frontiers in Public Health, Health Communication, International Journal of Cultural Studies, Journal of Computational Social Science, Journal of English for Academic Purposes, Journal of Historical Pragmatics, Journal of Politeness Research, Journal of Pragmatics, Language and Health, Language Sciences, Lingua, Pragmtics and Society_
   * Palgrave Macmillan, Routledge, Springer
   * International Communication Association Conference, National Communication Association Conference
 * Executive Board Member, International Association of Language and Social Psychology, 2024–2028.
