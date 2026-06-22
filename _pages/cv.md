@@ -23,13 +23,14 @@ Professional Experience
   
 Academic Honors & Awards
 -----
-* Young Scholar Paper Award, 19th China Pragmatics Association Conference, 2025.
-* Top Paper Award, Communication and Social Cognition, NCA, 2022.
-* Graduate Student Travel Award, AMPRA, 2022.
-* Doctoral Honors Seminar Participant (Communication Theory and Research), NCA, 2022.
+* Young Scholar Award, East Asian Pragmatics Conference, 2026.
+* Young Scholar Paper Award, China Pragmatics Association Conference, 2025.
+* Top Paper Award, Communication and Social Cognition, Nanational Communication Association Conference, 2022.
+* Graduate Student Travel Award, 5th American Pragmatics Association Conference, 2022.
+* Doctoral Honors Seminar Participant (Communication Theory and Research), National Communication Association Conference, 2022.
 * Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021.  
-* Top Student Paper Award, Language and Social Interaction Division, ICA, 2021.
-* Top Paper Award, Intergroup Communication Division, ICA, 2020.
+* Top Student Paper Award, Language and Social Interaction Division, International Communication Association Conference, 2021.
+* Top Paper Award, Intergroup Communication Division, International Communication Association Conference, 2020.
 
 Professional Service
 -----
