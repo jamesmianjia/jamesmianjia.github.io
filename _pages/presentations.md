@@ -5,9 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
+Panels Organized at Professional Conferences
+-----
+* Jaworska, S. & **Jia, M.** (2027). Perlocution in professional communication: Integrating corpus and experimental approaches. International Pragmatics Association Conference, Helsinki, Finland.  
+
 Peer-Reviewed Conference Presentations
 -----
-
 * American Pragmatics Association Conference (2022)
 * Asian Association of Social Psychology Conference (2025)
 * East Asian Pragmatics Conference (2024, 2026)
@@ -26,13 +29,11 @@ Peer-Reviewed Conference Presentations
 
 Plenary Addresses
 -----
-
-* China Pragmatics Association Conference (2025)
 * International Symposium on Language Science and Human Well-Being (2026)
+* China Pragmatics Association Conference (2025)
 
 Invited Talks
 -----
-
 * City University of Hong Kong (2023, 2024)
 * Guangdong University of Foreign Studies (2025) 
 * Renmin University of China (2023)
