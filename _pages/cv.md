@@ -39,6 +39,7 @@ Professional Service
   * Palgrave Macmillan, Routledge, Springer
   * International Communication Association Conference, National Communication Association Conference
 * Executive Board Member, International Association of Language and Social Psychology, 2024–2028.
+  * Regional Representative-Asia (2024–2028), President-Elect (2026–2028)
 * Co-Chair, International Symposium of Language Science and Human Well-Being, 2026–2026.
 * Core Committee Member, 11th Conference of the International Society for Gesture Studies, Hong Kong, China, 2025–2027. 
 * Conference Program Co-Chair, 8th LSP & Professional Communication Conference, Hong Kong, China, 2024–2025.
