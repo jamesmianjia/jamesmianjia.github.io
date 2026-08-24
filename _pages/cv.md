@@ -28,7 +28,7 @@ Academic Honors & Awards
 * Top Paper Award, Communication and Social Cognition, National Communication Association Conference, 2022.
 * Graduate Student Travel Award, American Pragmatics Association Conference, 2022.
 * Doctoral Honors Seminar Participant (Communication Theory and Research), National Communication Association Conference, 2022.
-* Editors' Choice Article Award, Lingua: An International Review of General Linguistics, 2021.  
+* Editors' Choice Article Award, *Lingua: An International Review of General Linguistics*, 2021.  
 * Top Student Paper Award, Language and Social Interaction Division, International Communication Association Conference, 2021.
 * Top Paper Award, Intergroup Communication Division, International Communication Association Conference, 2020.
 
@@ -40,7 +40,8 @@ Professional Service
   * International Communication Association Conference, National Communication Association Conference
 * Executive Board Member, International Association of Language and Social Psychology, 2024–2028.
   * Regional Representative-Asia (2024–2028), President-Elect (2026–2028)
-* Co-Chair, International Symposium of Language Science and Human Well-Being, 2025–2026.
+* Co-Chair, International Symposium on Language Science and Human Well-Being, Hong Kong, China, 2025–2026.
+* Co-Organizer, Symposium on Multidisciplinary Approaches to Language and Health Communication, Hong Kong, China, 2025–2026.
 * Core Committee Member, 11th Conference of the International Society for Gesture Studies, Hong Kong, China, 2025–2027. 
 * Conference Program Co-Chair, 8th LSP & Professional Communication Conference, Hong Kong, China, 2024–2025.
 * Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2019–2020.
