@@ -19,7 +19,7 @@ Internal Grants
 
 3. CityUHK-University of Exeter Initiator Grant, 05/25–07/25, 51,304 HKD <br> Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption. <br>
 
-4. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/26, 300,000 HKD <br> Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong. <br>
+4. City University of Hong Kong: Faculty Research Start-Up Grant, 05/24–04/27, 300,000 HKD <br> Persuasive Effects of Norm Presentation Strategies in HPV Vaccination Messages Targeting Parents in Hong Kong. <br>
 
 5. City University of Hong Kong: Teaching Start-Up Grant, 08/24–01/26, 112,631 HKD <br> ChatGPT-Enriched Learning of Communicative Theories and Practices in the Workplace. <br>
 
