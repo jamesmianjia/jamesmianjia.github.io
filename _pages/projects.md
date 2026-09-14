@@ -9,13 +9,13 @@ Below is a list of grants that I serve as the principal investigator or the co-p
 
 External Grants
 -----    
-1. Research Grants Council of Hong Kong: Early Career Scheme, 01/25–12/26, 597,500 HKD <br> Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong.
+1. Research Grants Council of Hong Kong: Early Career Scheme, 01/25–06/27, 597,500 HKD <br> Messaging Strategies for Promoting HPV Vaccination among Bilingual Males in Hong Kong.
 
 Internal Grants
 -----
 1. City University of Hong Kong: Research Enhancement Grant, 05/26–04/27, 64,100 HKD <br> Chinese Healthcare Professionals’ Awareness of and Reception to Evidence-Based Message Design Strategies: The Case of the Extended Parallel Process Model. <br>
 
-2. University of Exeter-CityUHK Initiator Grant, 12/25–06/26, 4,980 GBP <br> Using Strategic Agency Framing in Risk Communication to Reduce Alcohol Consumption. <br>
+2. University of Exeter-CityUHK Initiator Grant, 12/25–07/26, 4,980 GBP <br> Using Strategic Agency Framing in Risk Communication to Reduce Alcohol Consumption. <br>
 
 3. CityUHK-University of Exeter Initiator Grant, 05/25–07/25, 51,304 HKD <br> Investigating Language in Health Communication in Hong Kong: The Impact on Alcohol Consumption. <br>
 
