@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -eu
+
+ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+CACHE_DIR="${XDG_CACHE_HOME:-$HOME/.cache}/jamesmianjia-homepage-preview"
+GEMFILE="$CACHE_DIR/Gemfile"
+
+mkdir -p "$CACHE_DIR"
+
+if [ ! -f "$GEMFILE" ]; then
+  cat > "$GEMFILE" <<EOF
+eval_gemfile "$ROOT_DIR/Gemfile"
+gem "ffi", "< 1.17"
+EOF
+fi
+
+export BUNDLE_GEMFILE="$GEMFILE"
+export BUNDLE_APP_CONFIG="$CACHE_DIR/bundle-config"
+export BUNDLE_PATH="${BUNDLE_PATH:-$CACHE_DIR/bundle}"
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
+cd "$ROOT_DIR"
+if ! bundle check >/dev/null 2>&1; then
+  bundle install
+fi
+
+exec bundle exec jekyll serve --host 127.0.0.1 "$@"
