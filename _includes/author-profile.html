@@ -34,6 +34,10 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.wechat %}
+        {% assign wechat_qr = author.wechat | prepend: "/images/" | prepend: base_path %}
+        <li><a class="author__wechat-link" href="{{ wechat_qr }}" download="Wechat.jpg" aria-label="Download WeChat QR code"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat<span class="author__wechat-preview" aria-hidden="true"><img src="{{ wechat_qr }}" alt=""></span></a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}

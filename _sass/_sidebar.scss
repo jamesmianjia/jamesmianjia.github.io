@@ -234,4 +234,40 @@
       text-decoration: underline;
     }
   }
+
+  .author__wechat-link {
+    position: relative;
+
+    .author__wechat-preview {
+      display: none;
+    }
+
+    @include breakpoint($large) {
+      .author__wechat-preview {
+        position: absolute;
+        top: calc(100% + 5px);
+        left: 0;
+        width: 180px;
+        padding: 5px;
+        border: 1px solid $border-color;
+        border-radius: $border-radius;
+        background: #fff;
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+        z-index: 11;
+
+        img {
+          display: block;
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      &:hover,
+      &:focus {
+        .author__wechat-preview {
+          display: block;
+        }
+      }
+    }
+  }
 }
