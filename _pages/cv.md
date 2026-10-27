@@ -43,7 +43,7 @@ Professional Service
 * Co-Chair, International Symposium on Language Science and Human Well-Being, Hong Kong, China, 2025–2026.
 * Co-Organizer, Symposium on Multidisciplinary Approaches to Language and Health Communication, Hong Kong, China, 2025–2026.
 * Core Committee Member, 11th Conference of the International Society for Gesture Studies, Hong Kong, China, 2025–2027. 
-* Conference Program Co-Chair, 8th LSP & Professional Communication Conference, Hong Kong, China, 2024–2025.
+* Co-Chair, Conference Program, 8th LSP & Professional Communication Conference, Hong Kong, China, 2024–2025.
 * Co-Chair, Organizing Committee, The Conflict Conference 2020, Austin, TX, USA, 2019–2020.
 
 Professional Memberships
